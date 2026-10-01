@@ -1,0 +1,540 @@
+{
+  "audit_version": "1.0",
+  "audit_scope": {
+    "competition": "Eerste Divisie",
+    "season": "2026/27",
+    "included_status": "FINISHED",
+    "source_url": "https://raw.githubusercontent.com/fersel198001-debug/futbol-data/refs/heads/main/eerste_divisie_2026_27_matches.json",
+    "new_data_collected": false
+  },
+  "source_file": "eerste_divisie_2026_27_matches.json",
+  "total_source_records": 75,
+  "total_matches": 75,
+  "finished_matches": 75,
+  "excluded_out_of_scope_records": 0,
+  "duplicate_count": 0,
+  "duplicate_group_count": 0,
+  "duplicate_groups": [],
+  "conflict_count": 0,
+  "conflict_group_count": 0,
+  "conflict_groups": [],
+  "missing_matches_count": 15,
+  "missing_matches_method": "Internal completeness diagnostic only: 10 fixtures per round for 20 observed teams; no external schedule was fetched.",
+  "missing_matches_by_round": {
+    "8": 7,
+    "9": 8
+  },
+  "round_counts": {
+    "1": 10,
+    "2": 10,
+    "3": 10,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 3,
+    "9": 2
+  },
+  "round_team_gaps": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [
+      "De Graafschap",
+      "Den Bosch",
+      "Eindhoven FC",
+      "FC Emmen",
+      "FC Volendam",
+      "Helmond",
+      "Heracles",
+      "Maastricht",
+      "NAC Breda",
+      "Oss",
+      "Roda",
+      "Venlo",
+      "Vitesse",
+      "Waalwijk"
+    ],
+    "9": [
+      "Almere City",
+      "De Graafschap",
+      "Den Bosch",
+      "Dordrecht",
+      "Eindhoven FC",
+      "FC Emmen",
+      "FC Volendam",
+      "Helmond",
+      "Heracles",
+      "Maastricht",
+      "NAC Breda",
+      "Oss",
+      "Roda",
+      "Venlo",
+      "Vitesse",
+      "Waalwijk"
+    ]
+  },
+  "repeated_pairings": [],
+  "distinct_teams_observed": [
+    "Almere City",
+    "De Graafschap",
+    "Den Bosch",
+    "Dordrecht",
+    "Eindhoven FC",
+    "FC Emmen",
+    "FC Volendam",
+    "Helmond",
+    "Heracles",
+    "Jong AZ",
+    "Jong Ajax",
+    "Jong PSV",
+    "Jong Utrecht",
+    "Maastricht",
+    "NAC Breda",
+    "Oss",
+    "Roda",
+    "Venlo",
+    "Vitesse",
+    "Waalwijk"
+  ],
+  "requested_field_missing_counts": {
+    "competition": 0,
+    "season": 0,
+    "round": 0,
+    "date": 0,
+    "time": 0,
+    "status": 0,
+    "home_team": 0,
+    "away_team": 0,
+    "ht_home_score": 0,
+    "ht_away_score": 0,
+    "home_score": 0,
+    "away_score": 0,
+    "source": 0,
+    "retrieved_at": 0
+  },
+  "requested_field_presence_counts": {
+    "competition": 75,
+    "season": 75,
+    "round": 75,
+    "date": 75,
+    "time": 75,
+    "status": 75,
+    "home_team": 75,
+    "away_team": 75,
+    "ht_home_score": 75,
+    "ht_away_score": 75,
+    "home_score": 75,
+    "away_score": 75,
+    "source": 75,
+    "retrieved_at": 75
+  },
+  "missing_fields": [],
+  "team_statistics_matches_count": 75,
+  "xg_matches_count": 75,
+  "player_statistics_matches_count": 0,
+  "player_records_matches_count": 75,
+  "player_stats_records_nonempty_count": 0,
+  "player_statistics_note": "player_records are preserved, but source player_stats_available is false for records; no player performance statistics were inferred or created.",
+  "team_statistics_by_field": {
+    "possession": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "shots": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "shots_on_target": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "shots_off_target": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "blocked_shots": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "corners": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "fouls": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "offsides": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "yellow_cards": {
+      "home": 73,
+      "away": 73,
+      "either": 73,
+      "both": 73
+    },
+    "red_cards": {
+      "home": 10,
+      "away": 10,
+      "either": 10,
+      "both": 10
+    },
+    "big_chances": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "big_chances_missed": {
+      "home": 0,
+      "away": 0,
+      "either": 0,
+      "both": 0
+    },
+    "passes": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "accurate_passes": {
+      "home": 0,
+      "away": 0,
+      "either": 0,
+      "both": 0
+    },
+    "tackles": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "interceptions": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "clearances": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    },
+    "xG": {
+      "home": 75,
+      "away": 75,
+      "either": 75,
+      "both": 75
+    }
+  },
+  "data_completeness": {
+    "match_id": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "competition": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "season": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "round": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "match_date": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "kickoff_time": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "status": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "halftime_home": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "halftime_away": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "fulltime_home": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "fulltime_away": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "source": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "retrieved_at": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.possession": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.shots": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.shots_on_target": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.shots_off_target": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.blocked_shots": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.corners": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.fouls": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.offsides": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.yellow_cards": {
+      "present": 73,
+      "missing": 2,
+      "pct_present": 97.33
+    },
+    "home_team_stats.red_cards": {
+      "present": 10,
+      "missing": 65,
+      "pct_present": 13.33
+    },
+    "home_team_stats.big_chances": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.big_chances_missed": {
+      "present": 0,
+      "missing": 75,
+      "pct_present": 0.0
+    },
+    "home_team_stats.passes": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.accurate_passes": {
+      "present": 0,
+      "missing": 75,
+      "pct_present": 0.0
+    },
+    "home_team_stats.tackles": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.interceptions": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.clearances": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "home_team_stats.xG": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.possession": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.shots": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.shots_on_target": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.shots_off_target": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.blocked_shots": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.corners": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.fouls": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.offsides": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.yellow_cards": {
+      "present": 73,
+      "missing": 2,
+      "pct_present": 97.33
+    },
+    "away_team_stats.red_cards": {
+      "present": 10,
+      "missing": 65,
+      "pct_present": 13.33
+    },
+    "away_team_stats.big_chances": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.big_chances_missed": {
+      "present": 0,
+      "missing": 75,
+      "pct_present": 0.0
+    },
+    "away_team_stats.passes": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.accurate_passes": {
+      "present": 0,
+      "missing": 75,
+      "pct_present": 0.0
+    },
+    "away_team_stats.tackles": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.interceptions": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.clearances": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "away_team_stats.xG": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "player_records": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    },
+    "player_stats_records": {
+      "present": 0,
+      "missing": 75,
+      "pct_present": 0.0
+    },
+    "player_stats_available": {
+      "present": 75,
+      "missing": 0,
+      "pct_present": 100.0
+    }
+  },
+  "date_range": {
+    "first_match_date": "2026-08-07",
+    "last_match_date": "2026-09-25"
+  },
+  "source_integrity_checks": {
+    "score_consistency_errors": [],
+    "all_scope_values_consistent": true
+  },
+  "standardization_notes": [
+    "Canonical fields are mapped from existing source fields only.",
+    "Missing fields remain JSON null; no missing value was changed to 0.",
+    "All original source fields and values are preserved verbatim in each standardized record under source_record.",
+    "big_chances_missed and accurate_passes are null because the source has no direct fields for them; no derivation was made.",
+    "The source contains lineup/player_records but player_stats_available=false; therefore player statistics count is based on the source flag, not lineup presence."
+  ]
+}
