@@ -1,0 +1,50 @@
+name: Split Brazil Serie B JSON
+
+on:
+  push:
+    paths:
+      - "brazil_serie_b_2026_matches.json"
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Split source JSON into manageable chunks
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const src = 'brazil_serie_b_2026_matches.json';
+          const data = JSON.parse(fs.readFileSync(src, 'utf8'));
+          const matches = Array.isArray(data) ? data : (data.matches || data.data || []);
+          if (!Array.isArray(matches) || matches.length === 0) {
+            throw new Error('JSON structure not recognized: expected an array or matches/data array');
+          }
+          const dir = 'brazil_serie_b_2026_chunks';
+          fs.rmSync(dir, {recursive:true, force:true});
+          fs.mkdirSync(dir);
+          const size = 25;
+          for (let i=0; i<matches.length; i+=size) {
+            const chunk = matches.slice(i, i+size);
+            const n = String(Math.floor(i/size)+1).padStart(2,'0');
+            fs.writeFileSync(dir + '/chunk_' + n + '.json', JSON.stringify(chunk));
+          }
+          fs.writeFileSync(dir + '/manifest.json', JSON.stringify({
+            source: src,
+            total_matches: matches.length,
+            chunk_size: size,
+            chunk_count: Math.ceil(matches.length/size)
+          }, null, 2));
+          console.log('Prepared', matches.length, 'matches in', Math.ceil(matches.length/size), 'chunks');
+          NODE
+
+      - name: Commit chunks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add brazil_serie_b_2026_chunks
+          git commit -m "Create manageable Brazil Serie B data chunks" || exit 0
+          git push
