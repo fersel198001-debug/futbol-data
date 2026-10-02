@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Split source JSON into manageable chunks
+      - name: Split source JSON into manageable chunks and inspect structure
         run: |
           node <<'NODE'
           const fs = require('fs');
@@ -27,12 +27,32 @@ jobs:
             fs.writeFileSync(dir + '/chunk_' + n + '.json', JSON.stringify(matches.slice(i,i+size)));
           }
           fs.writeFileSync(dir + '/manifest.json', JSON.stringify({source:src,total_matches:matches.length,chunk_size:size,chunk_count:Math.ceil(matches.length/size)},null,2));
+
+          function inspect(v, depth=0) {
+            if (depth > 4) return {type:Array.isArray(v)?'array':typeof v};
+            if (Array.isArray(v)) return {type:'array', length:v.length, item: v.length ? inspect(v[0], depth+1) : null};
+            if (v && typeof v === 'object') {
+              const out={type:'object', keys:{}};
+              for (const [k,x] of Object.entries(v)) {
+                out.keys[k]=inspect(x, depth+1);
+                if (x === null) out.keys[k].sample=null;
+                else if (typeof x !== 'object') out.keys[k].sample=x;
+              }
+              return out;
+            }
+            return {type:typeof v, sample:v};
+          }
+          fs.writeFileSync('brazil_serie_b_2026_inspection.json', JSON.stringify({
+            total_matches:matches.length,
+            first_match:matches[0],
+            structure:inspect(matches[0])
+          },null,2));
           console.log('Prepared',matches.length,'matches in',Math.ceil(matches.length/size),'chunks');
           NODE
-      - name: Commit chunks
+      - name: Commit chunks and inspection
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add brazil_serie_b_2026_chunks
-          git commit -m "Create manageable Brazil Serie B data chunks" || exit 0
+          git add brazil_serie_b_2026_chunks brazil_serie_b_2026_inspection.json
+          git commit -m "Inspect Brazil Serie B data structure" || exit 0
           git push
