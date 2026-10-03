@@ -1,0 +1,45 @@
+name: Process Brazil 2026 data
+
+on:
+  push:
+    paths:
+      - '.github/workflows/process-brazil.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate and package Brazil parts
+        run: |
+          python - <<'PY'
+          import json, gzip, shutil, os
+          files = ["brazil_part_1.json","brazil_part_2.json","brazil_part_3.json"]
+          out = "brazil_serie_a_2026_combined.ndjson.gz"
+          total = 0
+          with gzip.open(out, "wt", encoding="utf-8") as dst:
+              for fn in files:
+                  with open(fn, "r", encoding="utf-8") as f:
+                      obj = json.load(f)
+                  records = obj if isinstance(obj, list) else obj.get("matches", obj.get("data", []))
+                  if not isinstance(records, list):
+                      raise ValueError(f"{fn}: unsupported JSON structure")
+                  for rec in records:
+                      dst.write(json.dumps(rec, ensure_ascii=False, separators=(",", ":")) + "\n")
+                      total += 1
+          print(f"records={total}")
+          print(f"output={out}")
+          PY
+
+      - name: Upload packaged data
+        uses: actions/upload-artifact@v4
+        with:
+          name: brazil-serie-a-2026-combined
+          path: brazil_serie_a_2026_combined.ndjson.gz
+          retention-days: 7
