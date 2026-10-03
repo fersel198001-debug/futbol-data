@@ -1,0 +1,4016 @@
+[
+  {
+    "match_id": "MNThRu6l",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-25",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Girona",
+    "away_team": "Albacete",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.65,
+        "away": 1
+      },
+      "shots": {
+        "home": 18,
+        "away": 20
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 11
+      },
+      "blocked_shots": {
+        "home": 8,
+        "away": 4
+      },
+      "corners": {
+        "home": 3,
+        "away": 5
+      },
+      "fouls": {
+        "home": 8,
+        "away": 13
+      },
+      "offsides": {
+        "home": 3,
+        "away": 2
+      },
+      "passes": {
+        "home": 509,
+        "away": 379
+      },
+      "accurate_passes": {
+        "home": 446,
+        "away": 317
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.56,
+        "away": 2.65
+      },
+      "xgot": {
+        "home": 1.71,
+        "away": 0.8
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "6iToBTFj",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-20",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Leganes",
+    "away_team": "Granada CF",
+    "fulltime_home": 3,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.54,
+        "away": 4
+      },
+      "shots": {
+        "home": 21,
+        "away": 21
+      },
+      "shots_on_target": {
+        "home": 12,
+        "away": 7
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 9
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 5
+      },
+      "corners": {
+        "home": 6,
+        "away": 4
+      },
+      "fouls": {
+        "home": 12,
+        "away": 14
+      },
+      "offsides": {
+        "home": 0,
+        "away": 2
+      },
+      "passes": {
+        "home": 357,
+        "away": 475
+      },
+      "accurate_passes": {
+        "home": 285,
+        "away": 414
+      },
+      "big_chances": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.42,
+        "away": 2.54
+      },
+      "xgot": {
+        "home": 3.27,
+        "away": 1.43
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "U9z7bjWp",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-20",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Almeria",
+    "away_team": "Celta Vigo B",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.97,
+        "away": 6
+      },
+      "shots": {
+        "home": 16,
+        "away": 12
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 9,
+        "away": 8
+      },
+      "blocked_shots": {
+        "home": 1,
+        "away": 3
+      },
+      "corners": {
+        "home": 2,
+        "away": 5
+      },
+      "fouls": {
+        "home": 14,
+        "away": 6
+      },
+      "offsides": {
+        "home": 2,
+        "away": 4
+      },
+      "passes": {
+        "home": 483,
+        "away": 450
+      },
+      "accurate_passes": {
+        "home": 415,
+        "away": 395
+      },
+      "big_chances": {
+        "home": 6,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.29,
+        "away": 0.97
+      },
+      "xgot": {
+        "home": 1.5,
+        "away": 0.17
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "YcLXYW7c",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-20",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Las Palmas",
+    "away_team": "Burgos CF",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.9,
+        "away": 0
+      },
+      "shots": {
+        "home": 13,
+        "away": 8
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 3
+      },
+      "shots_off_target": {
+        "home": 9,
+        "away": 2
+      },
+      "blocked_shots": {
+        "home": 1,
+        "away": 3
+      },
+      "corners": {
+        "home": 9,
+        "away": 4
+      },
+      "fouls": {
+        "home": 12,
+        "away": 21
+      },
+      "offsides": {
+        "home": 2,
+        "away": 5
+      },
+      "passes": {
+        "home": 570,
+        "away": 335
+      },
+      "accurate_passes": {
+        "home": 505,
+        "away": 259
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.45,
+        "away": 0.9
+      },
+      "xgot": {
+        "home": 0.53,
+        "away": 1.88
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "xfU8IBNG",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-20",
+    "kickoff_time": "02:15 PM",
+    "home_team": "Ceuta",
+    "away_team": "Valladolid",
+    "fulltime_home": 1,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.95,
+        "away": 2
+      },
+      "shots": {
+        "home": 12,
+        "away": 11
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 6
+      },
+      "shots_off_target": {
+        "home": 4,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 5,
+        "away": 2
+      },
+      "corners": {
+        "home": 3,
+        "away": 3
+      },
+      "fouls": {
+        "home": 14,
+        "away": 17
+      },
+      "offsides": {
+        "home": 3,
+        "away": 0
+      },
+      "passes": {
+        "home": 316,
+        "away": 401
+      },
+      "accurate_passes": {
+        "home": 242,
+        "away": 316
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.01,
+        "away": 1.95
+      },
+      "xgot": {
+        "home": 1.69,
+        "away": 1.49
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "EyNmVl7M",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-20",
+    "kickoff_time": "12:00 PM",
+    "home_team": "Sabadell",
+    "away_team": "Oviedo",
+    "fulltime_home": 3,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.61,
+        "away": 3
+      },
+      "shots": {
+        "home": 16,
+        "away": 9
+      },
+      "shots_on_target": {
+        "home": 7,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 4
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 3
+      },
+      "corners": {
+        "home": 4,
+        "away": 1
+      },
+      "fouls": {
+        "home": 18,
+        "away": 8
+      },
+      "offsides": {
+        "home": 3,
+        "away": 0
+      },
+      "passes": {
+        "home": 323,
+        "away": 491
+      },
+      "accurate_passes": {
+        "home": 233,
+        "away": 372
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.69,
+        "away": 0.61
+      },
+      "xgot": {
+        "home": 2.84,
+        "away": 0.64
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "M3NhMgOi",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-19",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Cadiz CF",
+    "away_team": "Girona",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.09,
+        "away": 3
+      },
+      "shots": {
+        "home": 15,
+        "away": 15
+      },
+      "shots_on_target": {
+        "home": 5,
+        "away": 7
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 7,
+        "away": 5
+      },
+      "corners": {
+        "home": 2,
+        "away": 4
+      },
+      "fouls": {
+        "home": 13,
+        "away": 13
+      },
+      "offsides": {
+        "home": 4,
+        "away": 1
+      },
+      "passes": {
+        "home": 497,
+        "away": 419
+      },
+      "accurate_passes": {
+        "home": 408,
+        "away": 342
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.03,
+        "away": 1.09
+      },
+      "xgot": {
+        "home": 0.79,
+        "away": 1.34
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "UTQ0KXh4",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-19",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Castellon",
+    "away_team": "Tenerife",
+    "fulltime_home": 5,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.82,
+        "away": 4
+      },
+      "shots": {
+        "home": 9,
+        "away": 12
+      },
+      "shots_on_target": {
+        "home": 5,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 5
+      },
+      "blocked_shots": {
+        "home": 1,
+        "away": 3
+      },
+      "corners": {
+        "home": 0,
+        "away": 5
+      },
+      "fouls": {
+        "home": 12,
+        "away": 7
+      },
+      "offsides": {
+        "home": 1,
+        "away": 4
+      },
+      "passes": {
+        "home": 675,
+        "away": 362
+      },
+      "accurate_passes": {
+        "home": 591,
+        "away": 289
+      },
+      "big_chances": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.76,
+        "away": 0.82
+      },
+      "xgot": {
+        "home": 4.05,
+        "away": 0.87
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "A7SGGkhT",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-19",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Eldense",
+    "away_team": "Eibar",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.55,
+        "away": 1
+      },
+      "shots": {
+        "home": 24,
+        "away": 8
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 14,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 4,
+        "away": 1
+      },
+      "corners": {
+        "home": 9,
+        "away": 2
+      },
+      "fouls": {
+        "home": 8,
+        "away": 14
+      },
+      "offsides": {
+        "home": 1,
+        "away": 0
+      },
+      "passes": {
+        "home": 620,
+        "away": 348
+      },
+      "accurate_passes": {
+        "home": 541,
+        "away": 266
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.44,
+        "away": 0.55
+      },
+      "xgot": {
+        "home": 0.76,
+        "away": 1.05
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "x2CC6XSj",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-19",
+    "kickoff_time": "02:15 PM",
+    "home_team": "Andorra",
+    "away_team": "Gijon",
+    "fulltime_home": 1,
+    "fulltime_away": 3,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.65,
+        "away": 3
+      },
+      "shots": {
+        "home": 14,
+        "away": 7
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 1
+      },
+      "blocked_shots": {
+        "home": 4,
+        "away": 2
+      },
+      "corners": {
+        "home": 9,
+        "away": 4
+      },
+      "fouls": {
+        "home": 17,
+        "away": 9
+      },
+      "offsides": {
+        "home": 0,
+        "away": 0
+      },
+      "passes": {
+        "home": 496,
+        "away": 323
+      },
+      "accurate_passes": {
+        "home": 413,
+        "away": 230
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.43,
+        "away": 0.65
+      },
+      "xgot": {
+        "home": 0.72,
+        "away": 3.17
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "6BJuXAxA",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-19",
+    "kickoff_time": "12:00 PM",
+    "home_team": "Real Sociedad B",
+    "away_team": "Mallorca",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.43,
+        "away": 0
+      },
+      "shots": {
+        "home": 10,
+        "away": 9
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 5
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 3
+      },
+      "corners": {
+        "home": 5,
+        "away": 3
+      },
+      "fouls": {
+        "home": 15,
+        "away": 14
+      },
+      "offsides": {
+        "home": 0,
+        "away": 3
+      },
+      "passes": {
+        "home": 319,
+        "away": 482
+      },
+      "accurate_passes": {
+        "home": 241,
+        "away": 412
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.1,
+        "away": 0.43
+      },
+      "xgot": {
+        "home": 0.18,
+        "away": 0.12
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "0fpy4C8N",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-18",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Albacete",
+    "away_team": "Cordoba",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.32,
+        "away": 1
+      },
+      "shots": {
+        "home": 13,
+        "away": 13
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 8,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 5
+      },
+      "corners": {
+        "home": 4,
+        "away": 3
+      },
+      "fouls": {
+        "home": 12,
+        "away": 22
+      },
+      "offsides": {
+        "home": 3,
+        "away": 2
+      },
+      "passes": {
+        "home": 357,
+        "away": 431
+      },
+      "accurate_passes": {
+        "home": 274,
+        "away": 351
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.16,
+        "away": 1.32
+      },
+      "xgot": {
+        "home": 0.64,
+        "away": 1.62
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "MJ1Xdwet",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-14",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Celta Vigo B",
+    "away_team": "Eibar",
+    "fulltime_home": 0,
+    "fulltime_away": 4,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.32,
+        "away": 0
+      },
+      "shots": {
+        "home": 24,
+        "away": 12
+      },
+      "shots_on_target": {
+        "home": 9,
+        "away": 7
+      },
+      "shots_off_target": {
+        "home": 9,
+        "away": 1
+      },
+      "blocked_shots": {
+        "home": 6,
+        "away": 4
+      },
+      "corners": {
+        "home": 5,
+        "away": 1
+      },
+      "fouls": {
+        "home": 8,
+        "away": 13
+      },
+      "offsides": {
+        "home": 0,
+        "away": 1
+      },
+      "passes": {
+        "home": 662,
+        "away": 326
+      },
+      "accurate_passes": {
+        "home": 589,
+        "away": 238
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.47,
+        "away": 1.32
+      },
+      "xgot": {
+        "home": 0.83,
+        "away": 1.68
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "KGrL7f9b",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-13",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Tenerife",
+    "away_team": "Leganes",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.55,
+        "away": 3
+      },
+      "shots": {
+        "home": 11,
+        "away": 10
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 5
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 3
+      },
+      "corners": {
+        "home": 3,
+        "away": 4
+      },
+      "fouls": {
+        "home": 15,
+        "away": 20
+      },
+      "offsides": {
+        "home": 3,
+        "away": 3
+      },
+      "passes": {
+        "home": 345,
+        "away": 481
+      },
+      "accurate_passes": {
+        "home": 278,
+        "away": 419
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.67,
+        "away": 0.55
+      },
+      "xgot": {
+        "home": 1.4,
+        "away": 0.21
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "ry53kDgU",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-13",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Mallorca",
+    "away_team": "Sabadell",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.73,
+        "away": 4
+      },
+      "shots": {
+        "home": 13,
+        "away": 17
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 2,
+        "away": 7
+      },
+      "blocked_shots": {
+        "home": 5,
+        "away": 6
+      },
+      "corners": {
+        "home": 3,
+        "away": 7
+      },
+      "fouls": {
+        "home": 9,
+        "away": 17
+      },
+      "offsides": {
+        "home": 0,
+        "away": 0
+      },
+      "passes": {
+        "home": 470,
+        "away": 456
+      },
+      "accurate_passes": {
+        "home": 385,
+        "away": 365
+      },
+      "big_chances": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.29,
+        "away": 0.73
+      },
+      "xgot": {
+        "home": 1.92,
+        "away": 0.18
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "hUtT5YwB",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-13",
+    "kickoff_time": "02:15 PM",
+    "home_team": "Valladolid",
+    "away_team": "Oviedo",
+    "fulltime_home": 0,
+    "fulltime_away": 3,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.0,
+        "away": 3
+      },
+      "shots": {
+        "home": 13,
+        "away": 12
+      },
+      "shots_on_target": {
+        "home": 1,
+        "away": 6
+      },
+      "shots_off_target": {
+        "home": 8,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 4,
+        "away": 0
+      },
+      "corners": {
+        "home": 2,
+        "away": 3
+      },
+      "fouls": {
+        "home": 10,
+        "away": 12
+      },
+      "offsides": {
+        "home": 0,
+        "away": 7
+      },
+      "passes": {
+        "home": 524,
+        "away": 380
+      },
+      "accurate_passes": {
+        "home": 433,
+        "away": 287
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.24,
+        "away": 1.0
+      },
+      "xgot": {
+        "home": 0.09,
+        "away": 1.55
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "CjuD9Gvn",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-13",
+    "kickoff_time": "12:00 PM",
+    "home_team": "Gijon",
+    "away_team": "Eldense",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.61,
+        "away": 1
+      },
+      "shots": {
+        "home": 12,
+        "away": 8
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 5
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 1
+      },
+      "corners": {
+        "home": 4,
+        "away": 4
+      },
+      "fouls": {
+        "home": 9,
+        "away": 14
+      },
+      "offsides": {
+        "home": 2,
+        "away": 2
+      },
+      "passes": {
+        "home": 475,
+        "away": 383
+      },
+      "accurate_passes": {
+        "home": 393,
+        "away": 291
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.18,
+        "away": 0.61
+      },
+      "xgot": {
+        "home": 0.19,
+        "away": 0.93
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "fXaueHPh",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-12",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Cordoba",
+    "away_team": "Almeria",
+    "fulltime_home": 0,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.52,
+        "away": 1
+      },
+      "shots": {
+        "home": 20,
+        "away": 4
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 10,
+        "away": 1
+      },
+      "blocked_shots": {
+        "home": 6,
+        "away": 1
+      },
+      "corners": {
+        "home": 9,
+        "away": 0
+      },
+      "fouls": {
+        "home": 13,
+        "away": 17
+      },
+      "offsides": {
+        "home": 4,
+        "away": 1
+      },
+      "passes": {
+        "home": 433,
+        "away": 315
+      },
+      "accurate_passes": {
+        "home": 362,
+        "away": 242
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.36,
+        "away": 0.52
+      },
+      "xgot": {
+        "home": 0.53,
+        "away": 1.07
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "2c3mgef5",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-12",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Girona",
+    "away_team": "Castellon",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.81,
+        "away": 3
+      },
+      "shots": {
+        "home": 8,
+        "away": 18
+      },
+      "shots_on_target": {
+        "home": 5,
+        "away": 9
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 0,
+        "away": 3
+      },
+      "corners": {
+        "home": 4,
+        "away": 11
+      },
+      "fouls": {
+        "home": 9,
+        "away": 10
+      },
+      "offsides": {
+        "home": 0,
+        "away": 2
+      },
+      "passes": {
+        "home": 347,
+        "away": 528
+      },
+      "accurate_passes": {
+        "home": 271,
+        "away": 462
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.84,
+        "away": 2.81
+      },
+      "xgot": {
+        "home": 1.51,
+        "away": 3.22
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "AN6eiZOH",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-12",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Granada CF",
+    "away_team": "Albacete",
+    "fulltime_home": 1,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.18,
+        "away": 0
+      },
+      "shots": {
+        "home": 11,
+        "away": 6
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 1
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 1
+      },
+      "corners": {
+        "home": 4,
+        "away": 5
+      },
+      "fouls": {
+        "home": 17,
+        "away": 14
+      },
+      "offsides": {
+        "home": 0,
+        "away": 1
+      },
+      "passes": {
+        "home": 401,
+        "away": 350
+      },
+      "accurate_passes": {
+        "home": 336,
+        "away": 269
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.7,
+        "away": 1.18
+      },
+      "xgot": {
+        "home": 0.8,
+        "away": 1.16
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "CdWMkMmD",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-12",
+    "kickoff_time": "02:15 PM",
+    "home_team": "Cadiz CF",
+    "away_team": "Las Palmas",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.62,
+        "away": 2
+      },
+      "shots": {
+        "home": 7,
+        "away": 20
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 11
+      },
+      "blocked_shots": {
+        "home": 0,
+        "away": 4
+      },
+      "corners": {
+        "home": 7,
+        "away": 9
+      },
+      "fouls": {
+        "home": 14,
+        "away": 14
+      },
+      "offsides": {
+        "home": 4,
+        "away": 1
+      },
+      "passes": {
+        "home": 425,
+        "away": 366
+      },
+      "accurate_passes": {
+        "home": 339,
+        "away": 282
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.72,
+        "away": 1.62
+      },
+      "xgot": {
+        "home": 0.82,
+        "away": 1.12
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "6JLtCg5T",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-12",
+    "kickoff_time": "12:00 PM",
+    "home_team": "Andorra",
+    "away_team": "Real Sociedad B",
+    "fulltime_home": 1,
+    "fulltime_away": 3,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.11,
+        "away": 1
+      },
+      "shots": {
+        "home": 23,
+        "away": 15
+      },
+      "shots_on_target": {
+        "home": 7,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 9,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 7,
+        "away": 4
+      },
+      "corners": {
+        "home": 7,
+        "away": 2
+      },
+      "fouls": {
+        "home": 11,
+        "away": 25
+      },
+      "offsides": {
+        "home": 2,
+        "away": 5
+      },
+      "passes": {
+        "home": 604,
+        "away": 214
+      },
+      "accurate_passes": {
+        "home": 524,
+        "away": 133
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.77,
+        "away": 2.11
+      },
+      "xgot": {
+        "home": 2.67,
+        "away": 1.17
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "4WSEirJ0",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-11",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Burgos CF",
+    "away_team": "Ceuta",
+    "fulltime_home": 3,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.84,
+        "away": 1
+      },
+      "shots": {
+        "home": 7,
+        "away": 12
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 3
+      },
+      "shots_off_target": {
+        "home": 2,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 3
+      },
+      "corners": {
+        "home": 1,
+        "away": 7
+      },
+      "fouls": {
+        "home": 21,
+        "away": 13
+      },
+      "offsides": {
+        "home": 1,
+        "away": 4
+      },
+      "passes": {
+        "home": 457,
+        "away": 461
+      },
+      "accurate_passes": {
+        "home": 368,
+        "away": 392
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.21,
+        "away": 0.84
+      },
+      "xgot": {
+        "home": 1.3,
+        "away": 1.19
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "0zvyaQQQ",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-07",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Sabadell",
+    "away_team": "Cordoba",
+    "fulltime_home": 3,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.53,
+        "away": 7
+      },
+      "shots": {
+        "home": 20,
+        "away": 15
+      },
+      "shots_on_target": {
+        "home": 10,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 8,
+        "away": 8
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 3
+      },
+      "corners": {
+        "home": 3,
+        "away": 4
+      },
+      "fouls": {
+        "home": 20,
+        "away": 8
+      },
+      "offsides": {
+        "home": 1,
+        "away": 2
+      },
+      "passes": {
+        "home": 232,
+        "away": 432
+      },
+      "accurate_passes": {
+        "home": 142,
+        "away": 346
+      },
+      "big_chances": {
+        "home": 7,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 4.49,
+        "away": 2.53
+      },
+      "xgot": {
+        "home": 3.43,
+        "away": 1.63
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "2JKerJOk",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-06",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Almeria",
+    "away_team": "Cadiz CF",
+    "fulltime_home": 3,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.23,
+        "away": 4
+      },
+      "shots": {
+        "home": 16,
+        "away": 5
+      },
+      "shots_on_target": {
+        "home": 7,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 6,
+        "away": 1
+      },
+      "corners": {
+        "home": 3,
+        "away": 4
+      },
+      "fouls": {
+        "home": 15,
+        "away": 8
+      },
+      "offsides": {
+        "home": 0,
+        "away": 3
+      },
+      "passes": {
+        "home": 539,
+        "away": 390
+      },
+      "accurate_passes": {
+        "home": 474,
+        "away": 325
+      },
+      "big_chances": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.62,
+        "away": 1.23
+      },
+      "xgot": {
+        "home": 1.96,
+        "away": 0.9
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "zXI3tcg2",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-06",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Castellon",
+    "away_team": "Albacete",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.4,
+        "away": 5
+      },
+      "shots": {
+        "home": 26,
+        "away": 6
+      },
+      "shots_on_target": {
+        "home": 7,
+        "away": 3
+      },
+      "shots_off_target": {
+        "home": 10,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 9,
+        "away": 0
+      },
+      "corners": {
+        "home": 7,
+        "away": 3
+      },
+      "fouls": {
+        "home": 5,
+        "away": 13
+      },
+      "offsides": {
+        "home": 0,
+        "away": 1
+      },
+      "passes": {
+        "home": 667,
+        "away": 348
+      },
+      "accurate_passes": {
+        "home": 605,
+        "away": 269
+      },
+      "big_chances": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 4.0,
+        "away": 0.4
+      },
+      "xgot": {
+        "home": 2.77,
+        "away": 0.35
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "Kd6qgzw8",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-06",
+    "kickoff_time": "02:15 PM",
+    "home_team": "Oviedo",
+    "away_team": "Burgos CF",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.37,
+        "away": 2
+      },
+      "shots": {
+        "home": 21,
+        "away": 16
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 9,
+        "away": 7
+      },
+      "blocked_shots": {
+        "home": 10,
+        "away": 7
+      },
+      "corners": {
+        "home": 9,
+        "away": 6
+      },
+      "fouls": {
+        "home": 7,
+        "away": 26
+      },
+      "offsides": {
+        "home": 1,
+        "away": 0
+      },
+      "passes": {
+        "home": 288,
+        "away": 450
+      },
+      "accurate_passes": {
+        "home": 222,
+        "away": 386
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.32,
+        "away": 2.37
+      },
+      "xgot": {
+        "home": 0.08,
+        "away": 1.6
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "8zEc2vGL",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-06",
+    "kickoff_time": "12:00 PM",
+    "home_team": "Eibar",
+    "away_team": "Granada CF",
+    "fulltime_home": 3,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.92,
+        "away": 3
+      },
+      "shots": {
+        "home": 12,
+        "away": 18
+      },
+      "shots_on_target": {
+        "home": 8,
+        "away": 3
+      },
+      "shots_off_target": {
+        "home": 4,
+        "away": 9
+      },
+      "blocked_shots": {
+        "home": 0,
+        "away": 6
+      },
+      "corners": {
+        "home": 1,
+        "away": 5
+      },
+      "fouls": {
+        "home": 13,
+        "away": 10
+      },
+      "offsides": {
+        "home": 0,
+        "away": 2
+      },
+      "passes": {
+        "home": 298,
+        "away": 510
+      },
+      "accurate_passes": {
+        "home": 228,
+        "away": 458
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.29,
+        "away": 0.92
+      },
+      "xgot": {
+        "home": 2.58,
+        "away": 0.19
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "46aTdIwq",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-05",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Eldense",
+    "away_team": "Mallorca",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.72,
+        "away": 3
+      },
+      "shots": {
+        "home": 8,
+        "away": 11
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 6
+      },
+      "shots_off_target": {
+        "home": 1,
+        "away": 4
+      },
+      "blocked_shots": {
+        "home": 4,
+        "away": 1
+      },
+      "corners": {
+        "home": 5,
+        "away": 8
+      },
+      "fouls": {
+        "home": 13,
+        "away": 13
+      },
+      "offsides": {
+        "home": 1,
+        "away": 1
+      },
+      "passes": {
+        "home": 334,
+        "away": 436
+      },
+      "accurate_passes": {
+        "home": 262,
+        "away": 380
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.87,
+        "away": 1.72
+      },
+      "xgot": {
+        "home": 0.11,
+        "away": 1.06
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "2wBk40o9",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-05",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Ceuta",
+    "away_team": "Celta Vigo B",
+    "fulltime_home": 0,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.43,
+        "away": 3
+      },
+      "shots": {
+        "home": 18,
+        "away": 15
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 8
+      },
+      "blocked_shots": {
+        "home": 6,
+        "away": 3
+      },
+      "corners": {
+        "home": 8,
+        "away": 4
+      },
+      "fouls": {
+        "home": 22,
+        "away": 19
+      },
+      "offsides": {
+        "home": 3,
+        "away": 1
+      },
+      "passes": {
+        "home": 378,
+        "away": 419
+      },
+      "accurate_passes": {
+        "home": 299,
+        "away": 351
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 6
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.29,
+        "away": 2.43
+      },
+      "xgot": {
+        "home": 1.0,
+        "away": 2.32
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "K2NYDFzH",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-05",
+    "kickoff_time": "04:30 PM",
+    "home_team": "Valladolid",
+    "away_team": "Andorra",
+    "fulltime_home": 1,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.13,
+        "away": 0
+      },
+      "shots": {
+        "home": 9,
+        "away": 13
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 3
+      },
+      "corners": {
+        "home": 2,
+        "away": 4
+      },
+      "fouls": {
+        "home": 14,
+        "away": 21
+      },
+      "offsides": {
+        "home": 3,
+        "away": 4
+      },
+      "passes": {
+        "home": 270,
+        "away": 496
+      },
+      "accurate_passes": {
+        "home": 210,
+        "away": 445
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.41,
+        "away": 1.13
+      },
+      "xgot": {
+        "home": 0.22,
+        "away": 0.21
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "WIU6g4ll",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-05",
+    "kickoff_time": "02:15 PM",
+    "home_team": "Gijon",
+    "away_team": "Girona",
+    "fulltime_home": 0,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.35,
+        "away": 3
+      },
+      "shots": {
+        "home": 22,
+        "away": 10
+      },
+      "shots_on_target": {
+        "home": 5,
+        "away": 3
+      },
+      "shots_off_target": {
+        "home": 10,
+        "away": 5
+      },
+      "blocked_shots": {
+        "home": 7,
+        "away": 2
+      },
+      "corners": {
+        "home": 4,
+        "away": 0
+      },
+      "fouls": {
+        "home": 7,
+        "away": 12
+      },
+      "offsides": {
+        "home": 1,
+        "away": 0
+      },
+      "passes": {
+        "home": 562,
+        "away": 388
+      },
+      "accurate_passes": {
+        "home": 483,
+        "away": 307
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.13,
+        "away": 1.35
+      },
+      "xgot": {
+        "home": 0.7,
+        "away": 1.15
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "EJuT0ndE",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-05",
+    "kickoff_time": "12:00 PM",
+    "home_team": "Real Sociedad B",
+    "away_team": "Tenerife",
+    "fulltime_home": 1,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.38,
+        "away": 1
+      },
+      "shots": {
+        "home": 8,
+        "away": 5
+      },
+      "shots_on_target": {
+        "home": 1,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 1
+      },
+      "corners": {
+        "home": 2,
+        "away": 3
+      },
+      "fouls": {
+        "home": 13,
+        "away": 12
+      },
+      "offsides": {
+        "home": 3,
+        "away": 3
+      },
+      "passes": {
+        "home": 480,
+        "away": 366
+      },
+      "accurate_passes": {
+        "home": 408,
+        "away": 284
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.5,
+        "away": 0.38
+      },
+      "xgot": {
+        "home": 0.44,
+        "away": 0.06
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "CW2yed8e",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-09-04",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Las Palmas",
+    "away_team": "Leganes",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.8,
+        "away": 1
+      },
+      "shots": {
+        "home": 3,
+        "away": 10
+      },
+      "shots_on_target": {
+        "home": 1,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 0,
+        "away": 7
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 1
+      },
+      "corners": {
+        "home": 3,
+        "away": 4
+      },
+      "fouls": {
+        "home": 12,
+        "away": 15
+      },
+      "offsides": {
+        "home": 3,
+        "away": 8
+      },
+      "passes": {
+        "home": 422,
+        "away": 432
+      },
+      "accurate_passes": {
+        "home": 359,
+        "away": 372
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.15,
+        "away": 1.8
+      },
+      "xgot": {
+        "home": 0.16,
+        "away": 0.82
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "ldYxwOnA",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-31",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Celta Vigo B",
+    "away_team": "Castellon",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.72,
+        "away": 1
+      },
+      "shots": {
+        "home": 12,
+        "away": 13
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 5
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 3
+      },
+      "corners": {
+        "home": 3,
+        "away": 3
+      },
+      "fouls": {
+        "home": 11,
+        "away": 10
+      },
+      "offsides": {
+        "home": 3,
+        "away": 1
+      },
+      "passes": {
+        "home": 443,
+        "away": 520
+      },
+      "accurate_passes": {
+        "home": 353,
+        "away": 439
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.88,
+        "away": 1.72
+      },
+      "xgot": {
+        "home": 1.07,
+        "away": 2.14
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "lxrqHtQj",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-31",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Burgos CF",
+    "away_team": "Real Sociedad B",
+    "fulltime_home": 2,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 2.2,
+        "away": 3
+      },
+      "shots": {
+        "home": 12,
+        "away": 15
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 8
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 2
+      },
+      "corners": {
+        "home": 6,
+        "away": 4
+      },
+      "fouls": {
+        "home": 13,
+        "away": 18
+      },
+      "offsides": {
+        "home": 2,
+        "away": 2
+      },
+      "passes": {
+        "home": 465,
+        "away": 399
+      },
+      "accurate_passes": {
+        "home": 376,
+        "away": 313
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.42,
+        "away": 2.2
+      },
+      "xgot": {
+        "home": 2.19,
+        "away": 2.33
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "fgyoy2HM",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-30",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Cordoba",
+    "away_team": "Granada CF",
+    "fulltime_home": 1,
+    "fulltime_away": 3,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.86,
+        "away": 2
+      },
+      "shots": {
+        "home": 15,
+        "away": 17
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 8
+      },
+      "blocked_shots": {
+        "home": 7,
+        "away": 4
+      },
+      "corners": {
+        "home": 6,
+        "away": 3
+      },
+      "fouls": {
+        "home": 21,
+        "away": 18
+      },
+      "offsides": {
+        "home": 1,
+        "away": 4
+      },
+      "passes": {
+        "home": 387,
+        "away": 288
+      },
+      "accurate_passes": {
+        "home": 309,
+        "away": 221
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.12,
+        "away": 1.86
+      },
+      "xgot": {
+        "home": 0.49,
+        "away": 2.55
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "tWUUvpIc",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-30",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Cadiz CF",
+    "away_team": "Valladolid",
+    "fulltime_home": 1,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.15,
+        "away": 1
+      },
+      "shots": {
+        "home": 10,
+        "away": 13
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 6
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 4
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 3
+      },
+      "corners": {
+        "home": 4,
+        "away": 6
+      },
+      "fouls": {
+        "home": 16,
+        "away": 12
+      },
+      "offsides": {
+        "home": 3,
+        "away": 2
+      },
+      "passes": {
+        "home": 479,
+        "away": 467
+      },
+      "accurate_passes": {
+        "home": 399,
+        "away": 385
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.36,
+        "away": 1.15
+      },
+      "xgot": {
+        "home": 0.85,
+        "away": 1.52
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "QeIAiN13",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-30",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Mallorca",
+    "away_team": "Ceuta",
+    "fulltime_home": 3,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.15,
+        "away": 5
+      },
+      "shots": {
+        "home": 13,
+        "away": 5
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 0
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 2
+      },
+      "corners": {
+        "home": 3,
+        "away": 3
+      },
+      "fouls": {
+        "home": 11,
+        "away": 14
+      },
+      "offsides": {
+        "home": 2,
+        "away": 1
+      },
+      "passes": {
+        "home": 486,
+        "away": 435
+      },
+      "accurate_passes": {
+        "home": 435,
+        "away": 371
+      },
+      "big_chances": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.96,
+        "away": 0.15
+      },
+      "xgot": {
+        "home": 2.62,
+        "away": 0.0
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "nkPQFy64",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-30",
+    "kickoff_time": "03:00 PM",
+    "home_team": "Andorra",
+    "away_team": "Eibar",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.53,
+        "away": 0
+      },
+      "shots": {
+        "home": 28,
+        "away": 4
+      },
+      "shots_on_target": {
+        "home": 5,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 12,
+        "away": 2
+      },
+      "blocked_shots": {
+        "home": 11,
+        "away": 1
+      },
+      "corners": {
+        "home": 7,
+        "away": 2
+      },
+      "fouls": {
+        "home": 12,
+        "away": 5
+      },
+      "offsides": {
+        "home": 2,
+        "away": 1
+      },
+      "passes": {
+        "home": 705,
+        "away": 196
+      },
+      "accurate_passes": {
+        "home": 640,
+        "away": 121
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.87,
+        "away": 0.53
+      },
+      "xgot": {
+        "home": 0.72,
+        "away": 0.33
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "jPMGVuup",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-29",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Girona",
+    "away_team": "Las Palmas",
+    "fulltime_home": 5,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.51,
+        "away": 6
+      },
+      "shots": {
+        "home": 17,
+        "away": 5
+      },
+      "shots_on_target": {
+        "home": 8,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 8,
+        "away": 0
+      },
+      "blocked_shots": {
+        "home": 1,
+        "away": 0
+      },
+      "corners": {
+        "home": 4,
+        "away": 1
+      },
+      "fouls": {
+        "home": 17,
+        "away": 13
+      },
+      "offsides": {
+        "home": 5,
+        "away": 0
+      },
+      "passes": {
+        "home": 421,
+        "away": 544
+      },
+      "accurate_passes": {
+        "home": 368,
+        "away": 480
+      },
+      "big_chances": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.38,
+        "away": 0.51
+      },
+      "xgot": {
+        "home": 3.28,
+        "away": 1.69
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "rwGBZltI",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-29",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Albacete",
+    "away_team": "Oviedo",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.15,
+        "away": 1
+      },
+      "shots": {
+        "home": 10,
+        "away": 9
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 4,
+        "away": 2
+      },
+      "blocked_shots": {
+        "home": 4,
+        "away": 2
+      },
+      "corners": {
+        "home": 8,
+        "away": 5
+      },
+      "fouls": {
+        "home": 10,
+        "away": 14
+      },
+      "offsides": {
+        "home": 2,
+        "away": 2
+      },
+      "passes": {
+        "home": 502,
+        "away": 303
+      },
+      "accurate_passes": {
+        "home": 413,
+        "away": 230
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.87,
+        "away": 1.15
+      },
+      "xgot": {
+        "home": 0.29,
+        "away": 1.84
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "bkQOTJ9d",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-29",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Leganes",
+    "away_team": "Eldense",
+    "fulltime_home": 1,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.69,
+        "away": 3
+      },
+      "shots": {
+        "home": 11,
+        "away": 16
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 6
+      },
+      "corners": {
+        "home": 0,
+        "away": 8
+      },
+      "fouls": {
+        "home": 13,
+        "away": 10
+      },
+      "offsides": {
+        "home": 2,
+        "away": 2
+      },
+      "passes": {
+        "home": 502,
+        "away": 448
+      },
+      "accurate_passes": {
+        "home": 428,
+        "away": 363
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.6,
+        "away": 0.69
+      },
+      "xgot": {
+        "home": 1.7,
+        "away": 0.33
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "b9GIk1WF",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-29",
+    "kickoff_time": "03:00 PM",
+    "home_team": "Sabadell",
+    "away_team": "Almeria",
+    "fulltime_home": 1,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.58,
+        "away": 2
+      },
+      "shots": {
+        "home": 14,
+        "away": 11
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 2
+      },
+      "shots_off_target": {
+        "home": 7,
+        "away": 7
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 2
+      },
+      "corners": {
+        "home": 4,
+        "away": 3
+      },
+      "fouls": {
+        "home": 17,
+        "away": 8
+      },
+      "offsides": {
+        "home": 3,
+        "away": 0
+      },
+      "passes": {
+        "home": 335,
+        "away": 445
+      },
+      "accurate_passes": {
+        "home": 212,
+        "away": 336
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.59,
+        "away": 0.58
+      },
+      "xgot": {
+        "home": 1.4,
+        "away": 0.19
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "WzUPmu1S",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-28",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Tenerife",
+    "away_team": "Gijon",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.18,
+        "away": 2
+      },
+      "shots": {
+        "home": 10,
+        "away": 5
+      },
+      "shots_on_target": {
+        "home": 4,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 3
+      },
+      "blocked_shots": {
+        "home": 0,
+        "away": 1
+      },
+      "corners": {
+        "home": 4,
+        "away": 1
+      },
+      "fouls": {
+        "home": 14,
+        "away": 13
+      },
+      "offsides": {
+        "home": 4,
+        "away": 0
+      },
+      "passes": {
+        "home": 415,
+        "away": 420
+      },
+      "accurate_passes": {
+        "home": 320,
+        "away": 331
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.67,
+        "away": 1.18
+      },
+      "xgot": {
+        "home": 0.56,
+        "away": 0.99
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "QJzvLkRO",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-24",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Granada CF",
+    "away_team": "Mallorca",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.05,
+        "away": 1
+      },
+      "shots": {
+        "home": 13,
+        "away": 18
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 5,
+        "away": 9
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 5
+      },
+      "corners": {
+        "home": 7,
+        "away": 1
+      },
+      "fouls": {
+        "home": 8,
+        "away": 14
+      },
+      "offsides": {
+        "home": 2,
+        "away": 2
+      },
+      "passes": {
+        "home": 298,
+        "away": 484
+      },
+      "accurate_passes": {
+        "home": 226,
+        "away": 419
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.6,
+        "away": 1.05
+      },
+      "xgot": {
+        "home": 0.73,
+        "away": 0.86
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "vPLIHcyh",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-24",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Celta Vigo B",
+    "away_team": "Andorra",
+    "fulltime_home": 4,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.98,
+        "away": 5
+      },
+      "shots": {
+        "home": 10,
+        "away": 17
+      },
+      "shots_on_target": {
+        "home": 8,
+        "away": 5
+      },
+      "shots_off_target": {
+        "home": 2,
+        "away": 10
+      },
+      "blocked_shots": {
+        "home": 0,
+        "away": 2
+      },
+      "corners": {
+        "home": 4,
+        "away": 4
+      },
+      "fouls": {
+        "home": 13,
+        "away": 18
+      },
+      "offsides": {
+        "home": 4,
+        "away": 3
+      },
+      "passes": {
+        "home": 299,
+        "away": 554
+      },
+      "accurate_passes": {
+        "home": 212,
+        "away": 462
+      },
+      "big_chances": {
+        "home": 5,
+        "away": 7
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 2.64,
+        "away": 1.98
+      },
+      "xgot": {
+        "home": 3.59,
+        "away": 1.43
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "dMH3yBB5",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-23",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Tenerife",
+    "away_team": "Almeria",
+    "fulltime_home": 1,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.72,
+        "away": 2
+      },
+      "shots": {
+        "home": 15,
+        "away": 9
+      },
+      "shots_on_target": {
+        "home": 2,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 7
+      },
+      "blocked_shots": {
+        "home": 7,
+        "away": 1
+      },
+      "corners": {
+        "home": 5,
+        "away": 7
+      },
+      "fouls": {
+        "home": 14,
+        "away": 8
+      },
+      "offsides": {
+        "home": 2,
+        "away": 1
+      },
+      "passes": {
+        "home": 343,
+        "away": 543
+      },
+      "accurate_passes": {
+        "home": 267,
+        "away": 471
+      },
+      "big_chances": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.8,
+        "away": 0.72
+      },
+      "xgot": {
+        "home": 0.84,
+        "away": 0.03
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "Uewa8CsJ",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-23",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Castellon",
+    "away_team": "Sabadell",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 1.16,
+        "away": 0
+      },
+      "shots": {
+        "home": 8,
+        "away": 11
+      },
+      "shots_on_target": {
+        "home": 1,
+        "away": 0
+      },
+      "shots_off_target": {
+        "home": 4,
+        "away": 6
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 5
+      },
+      "corners": {
+        "home": 5,
+        "away": 3
+      },
+      "fouls": {
+        "home": 9,
+        "away": 13
+      },
+      "offsides": {
+        "home": 0,
+        "away": 3
+      },
+      "passes": {
+        "home": 600,
+        "away": 254
+      },
+      "accurate_passes": {
+        "home": 499,
+        "away": 158
+      },
+      "big_chances": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 0.47,
+        "away": 1.16
+      },
+      "xgot": {
+        "home": 0.18,
+        "away": 0.0
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "O8JewXtg",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-23",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Gijon",
+    "away_team": "Burgos CF",
+    "fulltime_home": 1,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.21,
+        "away": 3
+      },
+      "shots": {
+        "home": 10,
+        "away": 7
+      },
+      "shots_on_target": {
+        "home": 5,
+        "away": 1
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 4
+      },
+      "blocked_shots": {
+        "home": 2,
+        "away": 2
+      },
+      "corners": {
+        "home": 4,
+        "away": 4
+      },
+      "fouls": {
+        "home": 15,
+        "away": 12
+      },
+      "offsides": {
+        "home": 0,
+        "away": 0
+      },
+      "passes": {
+        "home": 423,
+        "away": 561
+      },
+      "accurate_passes": {
+        "home": 353,
+        "away": 464
+      },
+      "big_chances": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.05,
+        "away": 0.21
+      },
+      "xgot": {
+        "home": 0.93,
+        "away": 0.02
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "0bKOOXRa",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-23",
+    "kickoff_time": "03:00 PM",
+    "home_team": "Eibar",
+    "away_team": "Valladolid",
+    "fulltime_home": 1,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.46,
+        "away": 1
+      },
+      "shots": {
+        "home": 12,
+        "away": 11
+      },
+      "shots_on_target": {
+        "home": 3,
+        "away": 4
+      },
+      "shots_off_target": {
+        "home": 6,
+        "away": 4
+      },
+      "blocked_shots": {
+        "home": 3,
+        "away": 3
+      },
+      "corners": {
+        "home": 5,
+        "away": 5
+      },
+      "fouls": {
+        "home": 8,
+        "away": 13
+      },
+      "offsides": {
+        "home": 2,
+        "away": 0
+      },
+      "passes": {
+        "home": 425,
+        "away": 566
+      },
+      "accurate_passes": {
+        "home": 365,
+        "away": 482
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.16,
+        "away": 0.46
+      },
+      "xgot": {
+        "home": 0.69,
+        "away": 0.42
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "h6xWMBdC",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-22",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Eldense",
+    "away_team": "Cadiz CF",
+    "fulltime_home": 2,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": {
+      "possession": {
+        "home": 0.73,
+        "away": 1
+      },
+      "shots": {
+        "home": 10,
+        "away": 8
+      },
+      "shots_on_target": {
+        "home": 6,
+        "away": 6
+      },
+      "shots_off_target": {
+        "home": 3,
+        "away": 1
+      },
+      "blocked_shots": {
+        "home": 1,
+        "away": 1
+      },
+      "corners": {
+        "home": 7,
+        "away": 3
+      },
+      "fouls": {
+        "home": 11,
+        "away": 16
+      },
+      "offsides": {
+        "home": 4,
+        "away": 1
+      },
+      "passes": {
+        "home": 395,
+        "away": 443
+      },
+      "accurate_passes": {
+        "home": 313,
+        "away": 377
+      },
+      "big_chances": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    "advanced_statistics": {
+      "xg": {
+        "home": 1.28,
+        "away": 0.73
+      },
+      "xgot": {
+        "home": 1.74,
+        "away": 1.83
+      }
+    },
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "ruuiAYC6",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-22",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Albacete",
+    "away_team": "Real Sociedad B",
+    "fulltime_home": 1,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "d2VpWFZP",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-22",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Ceuta",
+    "away_team": "Las Palmas",
+    "fulltime_home": 0,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "GrGmugCt",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-22",
+    "kickoff_time": "03:00 PM",
+    "home_team": "Oviedo",
+    "away_team": "Leganes",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "hYGGQgcm",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-21",
+    "kickoff_time": "07:00 PM",
+    "home_team": "Cordoba",
+    "away_team": "Girona",
+    "fulltime_home": 2,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "lK0OnvFr",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-17",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Almeria",
+    "away_team": "Eldense",
+    "fulltime_home": 3,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "21wyEGDs",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-17",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Gijon",
+    "away_team": "Sabadell",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "Q1g3aHbl",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-16",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Las Palmas",
+    "away_team": "Albacete",
+    "fulltime_home": 2,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "dp4WpIqe",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-16",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Burgos CF",
+    "away_team": "Cordoba",
+    "fulltime_home": 3,
+    "fulltime_away": 2,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "UV7X4wyR",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-16",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Girona",
+    "away_team": "Leganes",
+    "fulltime_home": 1,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "M54P6a6E",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-16",
+    "kickoff_time": "03:00 PM",
+    "home_team": "Eibar",
+    "away_team": "Tenerife",
+    "fulltime_home": 1,
+    "fulltime_away": 3,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "YRdBceT0",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-15",
+    "kickoff_time": "07:30 PM",
+    "home_team": "Mallorca",
+    "away_team": "Valladolid",
+    "fulltime_home": 2,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "Uc2vqdE7",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-15",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Cadiz CF",
+    "away_team": "Celta Vigo B",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "vPaJeZcD",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-15",
+    "kickoff_time": "05:00 PM",
+    "home_team": "Oviedo",
+    "away_team": "Granada CF",
+    "fulltime_home": 0,
+    "fulltime_away": 0,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "CITWgfqo",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-15",
+    "kickoff_time": "03:00 PM",
+    "home_team": "Andorra",
+    "away_team": "Ceuta",
+    "fulltime_home": 5,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  },
+  {
+    "match_id": "WIn5JxjK",
+    "competition": "LaLiga Hypermotion",
+    "season": "2026/27",
+    "match_date": "2026-08-14",
+    "kickoff_time": "06:30 PM",
+    "home_team": "Real Sociedad B",
+    "away_team": "Castellon",
+    "fulltime_home": 0,
+    "fulltime_away": 1,
+    "status": "FINISHED",
+    "halftime_home": null,
+    "halftime_away": null,
+    "team_statistics": null,
+    "advanced_statistics": null,
+    "lineups": null,
+    "player_statistics": null
+  }
+]
