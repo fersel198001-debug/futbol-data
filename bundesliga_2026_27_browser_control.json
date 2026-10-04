@@ -1,0 +1,97 @@
+{
+  "competition": "Germany Bundesliga",
+  "season": "2026/27",
+  "source": "Flashscore",
+  "retrieved_at_utc": "2026-10-04T14:15:41Z",
+  "kickoff_timezone": "Europe/Berlin",
+  "scope": "Completed/played matches only; future fixtures excluded.",
+  "player_statistics_collected": false,
+  "quality_control": {
+    "played_matches_total": 36,
+    "successfully_collected_matches": 36,
+    "error_matches_count": 0,
+    "error_matches": [],
+    "duplicate_matches_count": 0,
+    "duplicate_match_ids": [],
+    "missing_score": {
+      "matches_missing_fulltime_score_count": 0,
+      "matches_missing_fulltime_score_ids": [],
+      "matches_missing_halftime_score_count": 0,
+      "matches_missing_halftime_score_ids": []
+    },
+    "team_statistics": {
+      "matches_with_one_or_more_missing_statistics": 36,
+      "matches_with_missing_non_card_statistics": 0,
+      "all_other_requested_statistics_present_for_every_match": true,
+      "missing_match_count_by_field": {
+        "possession": 0,
+        "shots": 0,
+        "shots_on_target": 0,
+        "shots_off_target": 0,
+        "blocked_shots": 0,
+        "xG": 0,
+        "big_chances": 0,
+        "big_chances_missed": 0,
+        "corners": 0,
+        "fouls": 0,
+        "offsides": 0,
+        "yellow_cards": 36,
+        "red_cards": 36,
+        "passes": 0,
+        "accurate_passes": 0
+      },
+      "missing_home_away_values_by_field": {
+        "possession": 0,
+        "shots": 0,
+        "shots_on_target": 0,
+        "shots_off_target": 0,
+        "blocked_shots": 0,
+        "xG": 0,
+        "big_chances": 0,
+        "big_chances_missed": 0,
+        "corners": 0,
+        "fouls": 0,
+        "offsides": 0,
+        "yellow_cards": 72,
+        "red_cards": 72,
+        "passes": 0,
+        "accurate_passes": 0
+      },
+      "note": "Flashscore did not display team-level yellow-card or red-card aggregates in the match Stats tab; these remain NULL. Cards are recorded only as match events when present."
+    },
+    "matches_with_xG_for_both_teams": 36,
+    "matches_with_match_events": 36,
+    "match_events_total": 622,
+    "event_count_by_type": {
+      "goal": 131,
+      "missed_penalty": 4,
+      "own_goal": 4,
+      "penalty_goal": 2,
+      "red_card": 2,
+      "second_yellow_red": 2,
+      "substitution": 344,
+      "yellow_card": 133
+    },
+    "events_with_missing_description_count": 7,
+    "events_with_missing_team_count": 0,
+    "team_count": 18,
+    "team_names_unique": true,
+    "date_range": {
+      "first_match_date": "2026-08-28",
+      "last_match_date": "2026-09-20"
+    },
+    "integrity_checks": {
+      "matches_with_empty_home_team": [],
+      "matches_with_empty_away_team": [],
+      "matches_where_home_equals_away": [],
+      "fulltime_score_present_but_status_not_finished": [],
+      "all_collected_records_have_status_finished": true,
+      "future_fixtures_included": 0
+    },
+    "sources": {
+      "results": "https://www.flashscore.com/football/germany/bundesliga/results/",
+      "standings": "https://www.flashscore.com/football/germany/bundesliga/standings/",
+      "match_data": "Flashscore match pages: Summary/events and Stats team match statistics."
+    }
+  }
+}
