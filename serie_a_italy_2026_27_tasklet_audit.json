@@ -1,0 +1,217 @@
+{
+  "source": "Flashscore",
+  "source_results_url": "https://www.flashscore.com/football/italy/serie-a/results/",
+  "competition": "Serie A",
+  "country": "Italy",
+  "season": "2026/27",
+  "collection_as_of": "2026-10-05",
+  "quality_control": {
+    "results_page_unique_matches_found": 50,
+    "matches_in_dataset": 50,
+    "finished_matches": 50,
+    "non_finished_matches_excluded": [],
+    "duplicate_count": 0,
+    "duplicate_matches": [],
+    "first_match_date": "2026-08-22",
+    "last_match_date": "2026-09-20",
+    "next_flashscore_scheduled_fixture_date": "2026-10-10",
+    "future_fixtures_included": false,
+    "distinct_team_count": 20,
+    "distinct_teams": [
+      "AC Milan",
+      "AS Roma",
+      "Atalanta",
+      "Bologna",
+      "Cagliari",
+      "Como",
+      "Fiorentina",
+      "Frosinone",
+      "Genoa",
+      "Inter",
+      "Juventus",
+      "Lazio",
+      "Lecce",
+      "Monza",
+      "Napoli",
+      "Parma",
+      "Sassuolo",
+      "Torino",
+      "Udinese",
+      "Venezia"
+    ],
+    "team_statistics_fields": [
+      "xG",
+      "xGOT",
+      "possession_percent",
+      "big_chances",
+      "total_shots",
+      "shots_on_target",
+      "shots_off_target",
+      "blocked_shots",
+      "shots_inside_box",
+      "shots_outside_box",
+      "corners",
+      "fouls",
+      "yellow_cards",
+      "red_cards"
+    ],
+    "team_statistics_coverage": {
+      "by_metric": {
+        "xG": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "xGOT": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "possession_percent": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "big_chances": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "total_shots": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "shots_on_target": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "shots_off_target": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "blocked_shots": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "shots_inside_box": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "shots_outside_box": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "corners": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "fouls": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "yellow_cards": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        },
+        "red_cards": {
+          "matches_with_any_side": 50,
+          "matches_with_both_sides": 50,
+          "home_values_available": 50,
+          "away_values_available": 50,
+          "missing_team_values": 0
+        }
+      },
+      "matches_with_any_missing_team_statistics": 0
+    },
+    "xG_matches_available_any_side": 50,
+    "xG_matches_available_both_sides": 50,
+    "xGOT_matches_available_any_side": 50,
+    "xGOT_matches_available_both_sides": 50,
+    "missing_values": {
+      "all_dataset_null_value_count": 16,
+      "null_counts_by_field_path": {
+        "match.match_events.substitutions[].team": 1,
+        "match.match_events.substitutions[].description": 1,
+        "match.match_events.other_events[].team": 3,
+        "match.match_events.cards[].description": 11
+      },
+      "core_field_null_counts": {
+        "match_date": 0,
+        "kickoff_time": 0,
+        "home_team": 0,
+        "away_team": 0,
+        "final_score": 0,
+        "match_status": 0,
+        "source_url": 0
+      },
+      "team_stat_value_null_count": 0,
+      "team_stat_null_counts_by_metric": {
+        "xG": 0,
+        "xGOT": 0,
+        "possession_percent": 0,
+        "big_chances": 0,
+        "total_shots": 0,
+        "shots_on_target": 0,
+        "shots_off_target": 0,
+        "blocked_shots": 0,
+        "shots_inside_box": 0,
+        "shots_outside_box": 0,
+        "corners": 0,
+        "fouls": 0,
+        "yellow_cards": 0,
+        "red_cards": 0
+      },
+      "matches_with_any_missing_team_stat_values": 0
+    },
+    "zero_fill_check": {
+      "any_missing_values_replaced_with_zero": false,
+      "method": "Fields unavailable from Flashscore were stored as null. Zeroes in scores, statistics, or event-derived card counts are retained only when explicitly supported by the displayed match result/statistics/events.",
+      "observed_explicit_zero_team_stat_cells": 142,
+      "observed_zero_score_sides": 21
+    },
+    "match_event_coverage": {
+      "matches_with_goals_matching_final_score": 50,
+      "total_matches": 50,
+      "matches_with_goal_count_mismatch": []
+    },
+    "player_statistics_included": false,
+    "forbidden_player_stat_keys_found": [],
+    "tasklet_credits_used": null,
+    "tasklet_credit_note": "A credit meter was not available during collection, so usage could not be verified."
+  }
+}
