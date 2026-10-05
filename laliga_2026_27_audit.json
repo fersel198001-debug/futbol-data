@@ -1,0 +1,109 @@
+{
+  "competition": "LaLiga",
+  "season": "2026/27",
+  "source": {
+    "primary": "Flashscore",
+    "other_sources_used": [],
+    "feed_endpoints": [
+      "dc_1_{match_id}",
+      "df_st_1_{match_id}"
+    ]
+  },
+  "counts": {
+    "total_records_after_deduplication": 69,
+    "finished_matches": 69,
+    "duplicate_count": 0,
+    "team_count": 20,
+    "matches_with_team_statistics": 69,
+    "matches_without_team_statistics": 0,
+    "matches_with_xG": 69,
+    "matches_without_xG": 0,
+    "missing_basic_data_values": 0,
+    "missing_team_statistic_values": 208,
+    "missing_xG_values": 0,
+    "anomalous_value_count": 0,
+    "feed_api_errors": 0
+  },
+  "date_range": {
+    "from": "2026-08-15",
+    "to": "2026-09-20"
+  },
+  "teams": [
+    "Alaves",
+    "Ath Bilbao",
+    "Atl. Madrid",
+    "Barcelona",
+    "Betis",
+    "Celta Vigo",
+    "Dep. A Coruna",
+    "Elche",
+    "Espanyol",
+    "Getafe",
+    "Levante",
+    "Malaga",
+    "Osasuna",
+    "Racing Santander",
+    "Rayo Vallecano",
+    "Real Madrid",
+    "Real Sociedad",
+    "Sevilla",
+    "Valencia",
+    "Villarreal"
+  ],
+  "team_statistic_fields_observed": [
+    "Accurate through passes",
+    "Ball possession",
+    "Big chances",
+    "Blocked shots",
+    "Clearances",
+    "Corner kicks",
+    "Crosses",
+    "Duels won",
+    "Errors leading to goal",
+    "Errors leading to shot",
+    "Expected assists (xA)",
+    "Expected goals (xG)",
+    "Fouls",
+    "Free kicks",
+    "Goal kicks",
+    "Goalkeeper saves",
+    "Goals prevented",
+    "Headed goals",
+    "Hit the woodwork",
+    "Interceptions",
+    "Long passes",
+    "Offsides",
+    "Passes",
+    "Passes in final third",
+    "Red cards",
+    "Shots inside the box",
+    "Shots off target",
+    "Shots on target",
+    "Shots outside the box",
+    "Tackles",
+    "Throw ins",
+    "Total shots",
+    "Touches in opposition box",
+    "Yellow cards",
+    "xG on target (xGOT)",
+    "xGOT faced"
+  ],
+  "duplicates": [],
+  "anomalies": [],
+  "feed_api_errors": [],
+  "quality_checks": {
+    "possession_range_and_sum_checked": true,
+    "home_away_orientation_checked": true,
+    "xG_nonnegative_and_consistent_with_team_stats": true,
+    "missing_values_are_null": true,
+    "missing_values_filled_with_zero": false
+  },
+  "player_statistics": {
+    "collected": false,
+    "confirmation": "No player statistics, ratings, performance, events, xG, or lineup/player-level metrics were collected."
+  },
+  "supabase_transfer": {
+    "performed": false,
+    "confirmation": "No data was transferred to Supabase."
+  }
+}
