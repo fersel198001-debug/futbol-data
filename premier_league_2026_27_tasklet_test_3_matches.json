@@ -1,0 +1,200 @@
+{
+  "source": "Flashscore",
+  "season": "2026/27",
+  "competition": "Premier League",
+  "matches": [
+    {
+      "date": "2026-09-20",
+      "kickoff_time": "16:00",
+      "kickoff_timezone": null,
+      "home_team": "Bournemouth",
+      "away_team": "Liverpool",
+      "status": "FINISHED",
+      "final_score": {"home": 0, "away": 1},
+      "source_url": "https://www.flashscore.com/match/football/bournemouth-OtpNdwrc/liverpool-lId4TMwf/?mid=joCde00k",
+      "team_statistics": {
+        "home": {"xG": 0.79, "xGOT": 0.84, "possession_percent": 46, "big_chances": 1, "total_shots": 9, "shots_on_target": 2, "shots_off_target": 5, "blocked_shots": 2, "corners": 3, "fouls": 11, "yellow_cards": 1, "red_cards": 0},
+        "away": {"xG": 1.65, "xGOT": 1.01, "possession_percent": 54, "big_chances": 1, "total_shots": 12, "shots_on_target": 3, "shots_off_target": 3, "blocked_shots": 6, "corners": 3, "fouls": 13, "yellow_cards": 2, "red_cards": 0}
+      },
+      "cards": [
+        {"team": "Liverpool", "player": "Szoboszlai D.", "minute": 47, "card": "yellow", "description": "Roughing"},
+        {"team": "Liverpool", "player": "Isak A.", "minute": 61, "card": "yellow", "description": "Unsportsmanlike conduct"},
+        {"team": "Bournemouth", "player": "Silva A.", "minute": 81, "card": "yellow", "description": "Roughing"}
+      ],
+      "lineups": {
+        "home": {"formation": "4-2-3-1", "starting_xi": ["Petrovic D.", "Smith A.", "Hill J.", "Silva A.", "Truffert A.", "Adams T.", "Scott A.", "Rayan", "Christie R.", "Tavernier M.", "Evanilson"]},
+        "away": {"formation": "4-2-3-1", "starting_xi": ["Alisson", "Araujo R.", "Jacquet J.", "van Dijk V.", "Kerkez M.", "Szoboszlai D.", "Mac Allister A.", "Gakpo C.", "Wirtz F.", "Barcola B.", "Isak A."]}
+      },
+      "substitutions": [
+        {"team": "Bournemouth", "minute": 75, "on": "Jebbison D.", "off": "Christie R."},
+        {"team": "Bournemouth", "minute": 75, "on": "Cook L.", "off": "Smith A."},
+        {"team": "Bournemouth", "minute": 75, "on": "Brooks D.", "off": "Tavernier M."},
+        {"team": "Bournemouth", "minute": 88, "on": "Gannon-Doak B.", "off": "Adams T."},
+        {"team": "Bournemouth", "minute": 89, "on": "Toth A.", "off": "Rayan"},
+        {"team": "Liverpool", "minute": 71, "on": "Nyoni T.", "off": "Wirtz F."},
+        {"team": "Liverpool", "minute": 72, "on": "Munoz V.", "off": "Barcola B."},
+        {"team": "Liverpool", "minute": 81, "on": "Koumas L.", "off": "Isak A."},
+        {"team": "Liverpool", "minute": 81, "on": "Gravenberch R.", "off": "Szoboszlai D."}
+      ],
+      "player_stats": [
+        {"team": "Liverpool", "player": "Mac Allister A.", "starting": true, "rating": 7.9, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Silva A.", "starting": true, "rating": 7.8, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "van Dijk V.", "starting": true, "rating": 7.7, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Alisson", "starting": true, "rating": 7.6, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Isak A.", "starting": true, "subbed_off_minute": 81, "rating": 7.6, "total_shots": 3, "xG": 0.75},
+        {"team": "Liverpool", "player": "Jacquet J.", "starting": true, "rating": 7.6, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Hill J.", "starting": true, "rating": 7.5, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Araujo R.", "starting": true, "rating": 7.4, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Scott A.", "starting": true, "rating": 7.3, "total_shots": 2, "xG": 0.12},
+        {"team": "Liverpool", "player": "Szoboszlai D.", "starting": true, "subbed_off_minute": 81, "rating": 7.3, "total_shots": 2, "xG": 0.13},
+        {"team": "Liverpool", "player": "Gakpo C.", "starting": true, "rating": 7.2, "total_shots": 2, "xG": 0.20},
+        {"team": "Bournemouth", "player": "Adams T.", "starting": true, "rating": 7.1, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Wirtz F.", "starting": true, "subbed_off_minute": 71, "rating": 7.1, "total_shots": 2, "xG": 0.22},
+        {"team": "Liverpool", "player": "Kerkez M.", "starting": true, "rating": 7.0, "total_shots": 1, "xG": 0.05},
+        {"team": "Bournemouth", "player": "Brooks D.", "starting": false, "subbed_on_minute": 75, "rating": 6.7, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Munoz V.", "starting": false, "subbed_on_minute": 72, "rating": 6.7, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Rayan", "starting": true, "subbed_off_minute": 89, "rating": 6.7, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Truffert A.", "starting": true, "rating": 6.6, "total_shots": 1, "xG": 0.02},
+        {"team": "Bournemouth", "player": "Cook L.", "starting": false, "subbed_on_minute": 75, "rating": 6.5, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Petrovic D.", "starting": true, "rating": 6.5, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Jebbison D.", "starting": false, "subbed_on_minute": 75, "rating": 6.4, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Nyoni T.", "starting": false, "subbed_on_minute": 71, "rating": 6.4, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Tavernier M.", "starting": true, "subbed_off_minute": 75, "rating": 6.3, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Barcola B.", "starting": true, "subbed_off_minute": 72, "rating": 6.2, "total_shots": 1, "xG": 0.05},
+        {"team": "Bournemouth", "player": "Evanilson", "starting": true, "rating": 6.2, "total_shots": 2, "xG": 0.16},
+        {"team": "Bournemouth", "player": "Smith A.", "starting": true, "subbed_off_minute": 75, "rating": 6.2, "total_shots": null, "xG": null},
+        {"team": "Bournemouth", "player": "Christie R.", "starting": true, "subbed_off_minute": 75, "rating": 6.1, "total_shots": 4, "xG": 0.50},
+        {"team": "Bournemouth", "player": "Gannon-Doak B.", "starting": false, "subbed_on_minute": 88, "rating": null, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Gravenberch R.", "starting": false, "subbed_on_minute": 81, "rating": null, "total_shots": null, "xG": null},
+        {"team": "Liverpool", "player": "Koumas L.", "starting": false, "subbed_on_minute": 81, "rating": null, "total_shots": 1, "xG": 0.25},
+        {"team": "Bournemouth", "player": "Toth A.", "starting": false, "subbed_on_minute": 89, "rating": null, "total_shots": null, "xG": null}
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "kickoff_time": "18:30",
+      "kickoff_timezone": null,
+      "home_team": "Fulham",
+      "away_team": "Manchester Utd",
+      "status": "FINISHED",
+      "final_score": {"home": 1, "away": 1},
+      "source_url": "https://www.flashscore.com/match/football/fulham-69ZiU2Om/manchester-united-ppjDR086/?mid=vq6T9aFr",
+      "team_statistics": {
+        "home": {"xG": 1.62, "xGOT": 1.49, "possession_percent": 42, "big_chances": 3, "total_shots": 12, "shots_on_target": 6, "shots_off_target": 5, "blocked_shots": 1, "corners": 3, "fouls": 9, "yellow_cards": 3, "red_cards": 0},
+        "away": {"xG": 1.60, "xGOT": 1.06, "possession_percent": 58, "big_chances": 2, "total_shots": 29, "shots_on_target": 6, "shots_off_target": 10, "blocked_shots": 13, "corners": 13, "fouls": 5, "yellow_cards": 0, "red_cards": 0}
+      },
+      "cards": [
+        {"team": "Fulham", "player": "King J.", "minute": 45, "card": "yellow", "description": "Diving"},
+        {"team": "Fulham", "player": "Castagne T.", "minute": 50, "card": "yellow", "description": "Roughing"},
+        {"team": "Fulham", "player": "Rodrigo Muniz", "minute": 85, "card": "yellow", "description": "Roughing"}
+      ],
+      "lineups": {
+        "home": {"formation": "4-2-3-1", "starting_xi": ["Leno B.", "Castagne T.", "Affengruber D.", "Bassey C.", "Robinson A.", "Berge S.", "Charles S.", "Bobb O.", "King J.", "Iwobi A.", "Garcia G."]},
+        "away": {"formation": "4-2-3-1", "starting_xi": ["Lammens S.", "Dalot D.", "Maguire H.", "Martinez Li.", "Shaw L.", "Mainoo K.", "Tielemans Y.", "Mbeumo B.", "Fernandes B.", "Rashford M.", "Cunha M."]}
+      },
+      "substitutions": [
+        {"team": "Fulham", "minute": 71, "on": "Kevin", "off": "Bobb O."},
+        {"team": "Fulham", "minute": 71, "on": "Palacios C.", "off": "Iwobi A."},
+        {"team": "Fulham", "minute": 77, "on": "Larsson H.", "off": "Berge S."},
+        {"team": "Fulham", "minute": 80, "on": "Rodrigo Muniz", "off": "Garcia G."},
+        {"team": "Fulham", "minute": 80, "on": "Andersen J.", "off": "King J."},
+        {"team": "Manchester Utd", "minute": 77, "on": "Zirkzee J.", "off": "Rashford M."},
+        {"team": "Manchester Utd", "minute": 81, "on": "Mount M.", "off": "Mainoo K."},
+        {"team": "Manchester Utd", "minute": 84, "on": "Dorgu P.", "off": "Shaw L."}
+      ],
+      "player_stats": [
+        {"team": "Manchester Utd", "player": "Lammens S.", "starting": true, "rating": 8.1, "total_shots": null, "xG": null},
+        {"team": "Manchester Utd", "player": "Tielemans Y.", "starting": true, "rating": 7.8, "total_shots": 1, "xG": 0.09},
+        {"team": "Manchester Utd", "player": "Cunha M.", "starting": true, "rating": 7.7, "total_shots": 3, "xG": 0.05},
+        {"team": "Manchester Utd", "player": "Rashford M.", "starting": true, "subbed_off_minute": 77, "rating": 7.7, "total_shots": 6, "xG": 0.40},
+        {"team": "Fulham", "player": "Iwobi A.", "starting": true, "subbed_off_minute": 71, "rating": 7.6, "total_shots": 2, "xG": 0.19},
+        {"team": "Manchester Utd", "player": "Mbeumo B.", "starting": true, "rating": 7.6, "total_shots": 5, "xG": 0.27},
+        {"team": "Manchester Utd", "player": "Fernandes B.", "starting": true, "rating": 7.4, "total_shots": 3, "xG": 0.28},
+        {"team": "Manchester Utd", "player": "Mainoo K.", "starting": true, "subbed_off_minute": 81, "rating": 7.4, "total_shots": 1, "xG": 0.06},
+        {"team": "Fulham", "player": "Bassey C.", "starting": true, "rating": 7.1, "total_shots": 1, "xG": 0.06},
+        {"team": "Fulham", "player": "Charles S.", "starting": true, "rating": 7.1, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Robinson A.", "starting": true, "rating": 7.1, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Leno B.", "starting": true, "rating": 6.9, "total_shots": null, "xG": null},
+        {"team": "Manchester Utd", "player": "Dalot D.", "starting": true, "rating": 6.7, "total_shots": 2, "xG": 0.06},
+        {"team": "Fulham", "player": "Garcia G.", "starting": true, "subbed_off_minute": 80, "rating": 6.7, "total_shots": 3, "xG": 0.69},
+        {"team": "Manchester Utd", "player": "Martinez Li.", "starting": true, "rating": 6.7, "total_shots": 4, "xG": 0.15},
+        {"team": "Manchester Utd", "player": "Maguire H.", "starting": true, "rating": 6.6, "total_shots": 1, "xG": 0.01},
+        {"team": "Fulham", "player": "Affengruber D.", "starting": true, "rating": 6.5, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Kevin", "starting": false, "subbed_on_minute": 71, "rating": 6.5, "total_shots": 1, "xG": 0.04},
+        {"team": "Fulham", "player": "King J.", "starting": true, "subbed_off_minute": 80, "rating": 6.5, "total_shots": 3, "xG": 0.38},
+        {"team": "Fulham", "player": "Palacios C.", "starting": false, "subbed_on_minute": 71, "rating": 6.5, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Berge S.", "starting": true, "subbed_off_minute": 77, "rating": 6.4, "total_shots": 1, "xG": 0.05},
+        {"team": "Manchester Utd", "player": "Shaw L.", "starting": true, "subbed_off_minute": 84, "rating": 6.4, "total_shots": 1, "xG": 0.01},
+        {"team": "Manchester Utd", "player": "Zirkzee J.", "starting": false, "subbed_on_minute": 77, "rating": 6.4, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Bobb O.", "starting": true, "subbed_off_minute": 71, "rating": 6.3, "total_shots": 1, "xG": 0.22},
+        {"team": "Fulham", "player": "Larsson H.", "starting": false, "subbed_on_minute": 77, "rating": 6.3, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Castagne T.", "starting": true, "rating": 6.0, "total_shots": null, "xG": null},
+        {"team": "Fulham", "player": "Andersen J.", "starting": false, "subbed_on_minute": 80, "rating": null, "total_shots": null, "xG": null},
+        {"team": "Manchester Utd", "player": "Dorgu P.", "starting": false, "subbed_on_minute": 84, "rating": null, "total_shots": 1, "xG": 0.13},
+        {"team": "Manchester Utd", "player": "Mount M.", "starting": false, "subbed_on_minute": 81, "rating": null, "total_shots": 1, "xG": 0.09},
+        {"team": "Fulham", "player": "Rodrigo Muniz", "starting": false, "subbed_on_minute": 80, "rating": null, "total_shots": null, "xG": null}
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "kickoff_time": "16:00",
+      "kickoff_timezone": null,
+      "home_team": "Manchester City",
+      "away_team": "Sunderland",
+      "status": "FINISHED",
+      "final_score": {"home": 5, "away": 3},
+      "source_url": "https://www.flashscore.com/match/football/manchester-city-Wtn9Stg0/sunderland-WSzc94ws/?mid=fZCq6HE7",
+      "team_statistics": {
+        "home": {"xG": 2.82, "xGOT": 2.23, "possession_percent": 55, "big_chances": 3, "total_shots": 16, "shots_on_target": 6, "shots_off_target": 5, "blocked_shots": 5, "corners": 6, "fouls": 14, "yellow_cards": 0, "red_cards": 0},
+        "away": {"xG": 3.57, "xGOT": 2.81, "possession_percent": 45, "big_chances": 8, "total_shots": 17, "shots_on_target": 9, "shots_off_target": 5, "blocked_shots": 3, "corners": 5, "fouls": 14, "yellow_cards": 1, "red_cards": 0}
+      },
+      "cards": [
+        {"team": "Sunderland", "player": "Methalie D.", "minute": 8, "card": "yellow", "description": "Roughing"}
+      ],
+      "lineups": {
+        "home": {"formation": "4-2-3-1", "starting_xi": ["Donnarumma G.", "Nunes M.", "Dias R.", "Guehi M.", "Gvardiol J.", "Fernandez E.", "Anderson E.", "Ndiaye I.", "Cherki R.", "Semenyo A.", "Haaland E."]},
+        "away": {"formation": "4-2-3-1", "starting_xi": ["Roefs R.", "Mukiele N.", "Danso K.", "Ballard D.", "Methalie D.", "Xhaka G.", "Sadiki N.", "Meunier T.", "Le Fee E.", "Angulo N.", "Brobbey B."]}
+      },
+      "substitutions": [
+        {"team": "Sunderland", "minute": 60, "on": "Fofana M.", "off": "Angulo N."},
+        {"team": "Sunderland", "minute": 68, "on": "Isidor W.", "off": "Sadiki N."},
+        {"team": "Manchester City", "minute": 75, "on": "Doku J.", "off": "Ndiaye I."},
+        {"team": "Sunderland", "minute": 79, "on": "Hume T.", "off": "Meunier T."},
+        {"team": "Manchester City", "minute": 85, "on": "O'Reilly N.", "off": "Cherki R."}
+      ],
+      "player_stats": [
+        {"team": "Sunderland", "player": "Brobbey B.", "starting": true, "rating": 9.4, "total_shots": 5, "xG": 2.35},
+        {"team": "Manchester City", "player": "Semenyo A.", "starting": true, "rating": 8.6, "total_shots": 2, "xG": 0.16},
+        {"team": "Manchester City", "player": "Gvardiol J.", "starting": true, "rating": 8.3, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "Cherki R.", "starting": true, "subbed_off_minute": 85, "rating": 8.2, "total_shots": 2, "xG": 0.13},
+        {"team": "Sunderland", "player": "Le Fee E.", "starting": true, "rating": 7.8, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "Fernandez E.", "starting": true, "rating": 7.5, "total_shots": 1, "xG": 0.04},
+        {"team": "Manchester City", "player": "Haaland E.", "starting": true, "rating": 7.3, "total_shots": 4, "xG": 1.09},
+        {"team": "Sunderland", "player": "Xhaka G.", "starting": true, "rating": 7.3, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "Mukiele N.", "starting": true, "rating": 7.2, "total_shots": 1, "xG": 0.05},
+        {"team": "Manchester City", "player": "Ndiaye I.", "starting": true, "subbed_off_minute": 75, "rating": 7.2, "total_shots": 2, "xG": 0.10},
+        {"team": "Sunderland", "player": "Ballard D.", "starting": true, "rating": 7.1, "total_shots": 2, "xG": 0.14},
+        {"team": "Manchester City", "player": "Doku J.", "starting": false, "subbed_on_minute": 75, "rating": 7.1, "total_shots": 1, "xG": 0.23},
+        {"team": "Manchester City", "player": "Guehi M.", "starting": true, "rating": 6.9, "total_shots": 1, "xG": 0.06},
+        {"team": "Sunderland", "player": "Meunier T.", "starting": true, "subbed_off_minute": 79, "rating": 6.9, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "Anderson E.", "starting": true, "rating": 6.8, "total_shots": 1, "xG": 0.02},
+        {"team": "Sunderland", "player": "Hume T.", "starting": false, "subbed_on_minute": 79, "rating": 6.8, "total_shots": 1, "xG": 0.10},
+        {"team": "Manchester City", "player": "Donnarumma G.", "starting": true, "rating": 6.7, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "Fofana M.", "starting": false, "subbed_on_minute": 60, "rating": 6.3, "total_shots": 3, "xG": 0.39},
+        {"team": "Sunderland", "player": "Angulo N.", "starting": true, "subbed_off_minute": 60, "rating": 6.2, "total_shots": 2, "xG": 0.45},
+        {"team": "Sunderland", "player": "Isidor W.", "starting": false, "subbed_on_minute": 68, "rating": 6.2, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "Nunes M.", "starting": true, "rating": 6.2, "total_shots": null, "xG": null},
+        {"team": "Sunderland", "player": "Methalie D.", "starting": true, "rating": 5.9, "total_shots": 1, "xG": 0.03},
+        {"team": "Sunderland", "player": "Sadiki N.", "starting": true, "subbed_off_minute": 68, "rating": 5.9, "total_shots": 1, "xG": 0.04},
+        {"team": "Sunderland", "player": "Danso K.", "starting": true, "rating": 5.1, "total_shots": 1, "xG": 0.07},
+        {"team": "Manchester City", "player": "Dias R.", "starting": true, "rating": 5.1, "total_shots": 1, "xG": 0.20},
+        {"team": "Sunderland", "player": "Roefs R.", "starting": true, "rating": 4.4, "total_shots": null, "xG": null},
+        {"team": "Manchester City", "player": "O'Reilly N.", "starting": false, "subbed_on_minute": 85, "rating": null, "total_shots": 1, "xG": 0.78}
+      ]
+    }
+  ],
+  "task_usage": {
+    "credits_used": null,
+    "note": "No credit-meter information was exposed to the agent, so the actual number of credits used cannot be verified."
+  }
+}
