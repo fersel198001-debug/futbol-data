@@ -1,0 +1,575 @@
+{
+  "competition": "France Ligue 1",
+  "season": "2026/27",
+  "source": "Flashscore only",
+  "total_records": 45,
+  "finished_records": 45,
+  "non_finished_records": 0,
+  "non_finished_ids": [],
+  "duplicate_count": 0,
+  "date_range": {
+    "from": "2026-08-21",
+    "to": "2026-09-20"
+  },
+  "team_count": 18,
+  "teams": [
+    "Angers",
+    "Auxerre",
+    "Brest",
+    "Le Havre",
+    "Le Mans",
+    "Lens",
+    "Lille",
+    "Lorient",
+    "Lyon",
+    "Marseille",
+    "Monaco",
+    "Nice",
+    "PSG",
+    "Paris FC",
+    "Rennes",
+    "Strasbourg",
+    "Toulouse",
+    "Troyes"
+  ],
+  "team_statistics_coverage": {
+    "xg": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "xgot": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "possession": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "big_chances": {
+      "matches_with_both_teams": 29,
+      "total_finished": 45,
+      "rate": 0.6444
+    },
+    "total_shots": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "shots_on_target": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "shots_off_target": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "blocked_shots": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "shots_inside_box": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "shots_outside_box": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "corners": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "fouls": {
+      "matches_with_both_teams": 34,
+      "total_finished": 45,
+      "rate": 0.7556
+    },
+    "yellow_cards": {
+      "matches_with_both_teams": 43,
+      "total_finished": 45,
+      "rate": 0.9556
+    },
+    "red_cards": {
+      "matches_with_both_teams": 43,
+      "total_finished": 45,
+      "rate": 0.9556
+    }
+  },
+  "xg_coverage": {
+    "matches_with_both_teams": 34,
+    "total_finished": 45,
+    "rate": 0.7556
+  },
+  "xgot_coverage": {
+    "matches_with_both_teams": 34,
+    "total_finished": 45,
+    "rate": 0.7556
+  },
+  "missing_team_statistics_by_field": {
+    "xg": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "xgot": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "possession": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "big_chances": [
+      "KSEQBX7d",
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "KUw6nHvo",
+      "YiUa8b14",
+      "roMoafOj",
+      "zu9XMcGc",
+      "jVFmJFFM",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs",
+      "6i9H6E5l"
+    ],
+    "total_shots": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "shots_on_target": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "shots_off_target": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "blocked_shots": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "shots_inside_box": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "shots_outside_box": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "corners": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "fouls": [
+      "nZ6CZz03",
+      "2oHPT5Ts",
+      "dSbbQWMk",
+      "65S76xWG",
+      "YiUa8b14",
+      "zu9XMcGc",
+      "r5CuLyoA",
+      "88oKeLHb",
+      "zkSijgL7",
+      "lYTqhFje",
+      "rigkLDKs"
+    ],
+    "yellow_cards": [
+      "EDlezEkL",
+      "p2AX2W4D"
+    ],
+    "red_cards": [
+      "EDlezEkL",
+      "p2AX2W4D"
+    ]
+  },
+  "records_with_missing_fields": [
+    {
+      "match_id": "KSEQBX7d",
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "nZ6CZz03",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "2oHPT5Ts",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "dSbbQWMk",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "65S76xWG",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "KUw6nHvo",
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "YiUa8b14",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "roMoafOj",
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "zu9XMcGc",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "jVFmJFFM",
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "r5CuLyoA",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "88oKeLHb",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "EDlezEkL",
+      "warnings": [
+        "unresolved_card_team_attribution"
+      ]
+    },
+    {
+      "match_id": "p2AX2W4D",
+      "warnings": [
+        "unresolved_card_team_attribution"
+      ]
+    },
+    {
+      "match_id": "zkSijgL7",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "lYTqhFje",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "rigkLDKs",
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "6i9H6E5l",
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    }
+  ],
+  "scrape_failures": [],
+  "errors_and_warnings": [
+    "6 match(es) have a mismatch between listed score and extracted goal events; see match_event_quality.goal_count_mismatches",
+    "2 match event(s) have null team attribution because Flashscore commentary did not identify a team unambiguously",
+    "Kickoff timezone is not explicitly stated by the scraped Flashscore page; times are preserved as displayed."
+  ],
+  "player_data_included": false,
+  "player_data_confirmation": "No player names, player identifiers, ratings, performances, shots, xG, minutes, player-level statistics, player events or player_match_stats are present. Commentary was reduced to event type, minute and team only.",
+  "event_capture_note": "Goal/card/substitution event types are extracted from Flashscore important-only commentary; player identifiers and names are not retained. Match event totals were cross-checked against final scores.",
+  "source_results_url": "https://www.flashscore.com/football/france/ligue-1/results/",
+  "generated_at": "2026-10-05T19:29:31.248Z",
+  "match_event_quality": {
+    "events_by_type": {
+      "yellow_card": 118,
+      "substitution": 370,
+      "second_yellow_red": 2,
+      "goal": 132,
+      "red_card": 8
+    },
+    "goal_count_mismatches": [
+      {
+        "match_id": "Uuc6OAi2",
+        "score_goals": 3,
+        "event_goals": 4
+      },
+      {
+        "match_id": "n11JDgwp",
+        "score_goals": 2,
+        "event_goals": 3
+      },
+      {
+        "match_id": "xUCwdUBs",
+        "score_goals": 3,
+        "event_goals": 4
+      },
+      {
+        "match_id": "IsqSlD4E",
+        "score_goals": 2,
+        "event_goals": 3
+      },
+      {
+        "match_id": "zkSijgL7",
+        "score_goals": 1,
+        "event_goals": 2
+      },
+      {
+        "match_id": "z9IoCzrR",
+        "score_goals": 7,
+        "event_goals": 6
+      }
+    ],
+    "events_with_unresolved_team": 2,
+    "event_source": "Flashscore important-only live commentary",
+    "player_identifiers_or_names_retained": false
+  },
+  "kickoff_timezone_note": "Kickoff values reflect the time shown on Flashscore; the scraped page did not explicitly state a timezone."
+}
