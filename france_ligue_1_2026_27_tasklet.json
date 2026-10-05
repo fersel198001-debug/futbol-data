@@ -1,0 +1,6556 @@
+{
+  "competition": "France Ligue 1",
+  "season": "2026/27",
+  "source": "Flashscore",
+  "source_results_url": "https://www.flashscore.com/football/france/ligue-1/results/",
+  "records": [
+    {
+      "match_id": "SC8SVhaS",
+      "date": "2026-09-20",
+      "kickoff": "14:45",
+      "home_team": "Marseille",
+      "away_team": "PSG",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/marseille-SblU3Hee/psg-CjhkPw0k/?mid=SC8SVhaS",
+      "team_stats": {
+        "xg": {
+          "home": 1.98,
+          "away": 5.09
+        },
+        "xgot": {
+          "home": 0.87,
+          "away": 4.51
+        },
+        "possession": {
+          "home": 39,
+          "away": 61
+        },
+        "big_chances": {
+          "home": 4,
+          "away": 9
+        },
+        "total_shots": {
+          "home": 12,
+          "away": 31
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 10
+        },
+        "shots_off_target": {
+          "home": 3,
+          "away": 12
+        },
+        "blocked_shots": {
+          "home": 5,
+          "away": 9
+        },
+        "shots_inside_box": {
+          "home": 7,
+          "away": 22
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 9
+        },
+        "corners": {
+          "home": 3,
+          "away": 7
+        },
+        "fouls": {
+          "home": 9,
+          "away": 3
+        },
+        "yellow_cards": {
+          "home": 4,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+1",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "team": "Marseille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "81",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "PSG"
+        },
+        {
+          "type": "second_yellow_red",
+          "minute": "77",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "74",
+          "team": "PSG"
+        },
+        {
+          "type": "goal",
+          "minute": "72",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "66",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "39",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "32",
+          "team": "Marseille"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "Uuc6OAi2",
+      "date": "2026-09-20",
+      "kickoff": "11:15",
+      "home_team": "Nice",
+      "away_team": "Lille",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lille-pfDZL71o/nice-YagoQJpq/?mid=Uuc6OAi2",
+      "team_stats": {
+        "xg": {
+          "home": 1.53,
+          "away": 1.81
+        },
+        "xgot": {
+          "home": 1.33,
+          "away": 2.22
+        },
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "big_chances": {
+          "home": 4,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 10,
+          "away": 21
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 8
+        },
+        "shots_off_target": {
+          "home": 6,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 0,
+          "away": 7
+        },
+        "shots_inside_box": {
+          "home": 7,
+          "away": 15
+        },
+        "shots_outside_box": {
+          "home": 3,
+          "away": 6
+        },
+        "corners": {
+          "home": 3,
+          "away": 7
+        },
+        "fouls": {
+          "home": 16,
+          "away": 9
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+1",
+          "team": "Lille"
+        },
+        {
+          "type": "goal",
+          "minute": "79",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Nice"
+        },
+        {
+          "type": "goal",
+          "minute": "67",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "team": "Lille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "57",
+          "team": "Nice"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "45+1",
+          "team": "Nice"
+        },
+        {
+          "type": "goal",
+          "minute": "22",
+          "team": "Lille"
+        },
+        {
+          "type": "goal",
+          "minute": "4",
+          "team": "Nice"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "KSEQBX7d",
+      "date": "2026-09-20",
+      "kickoff": "09:00",
+      "home_team": "Auxerre",
+      "away_team": "Brest",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/brest-Cr4VGaUl/?mid=KSEQBX7d",
+      "team_stats": {
+        "xg": {
+          "home": 0.96,
+          "away": 0.34
+        },
+        "xgot": {
+          "home": 1.14,
+          "away": 0.16
+        },
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": 11,
+          "away": 8
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 2
+        },
+        "shots_off_target": {
+          "home": 3,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 4,
+          "away": 0
+        },
+        "shots_inside_box": {
+          "home": 3,
+          "away": 3
+        },
+        "shots_outside_box": {
+          "home": 8,
+          "away": 5
+        },
+        "corners": {
+          "home": 8,
+          "away": 3
+        },
+        "fouls": {
+          "home": 19,
+          "away": 13
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "84",
+          "team": "Brest"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "82",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Brest"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "73",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "47",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "23",
+          "team": "Brest"
+        }
+      ],
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "n11JDgwp",
+      "date": "2026-09-19",
+      "kickoff": "14:45",
+      "home_team": "Angers",
+      "away_team": "Troyes",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/angers-SAlF91iL/troyes-fsfAHubD/?mid=n11JDgwp",
+      "team_stats": {
+        "xg": {
+          "home": 2.26,
+          "away": 1.16
+        },
+        "xgot": {
+          "home": 2.05,
+          "away": 1.02
+        },
+        "possession": {
+          "home": 61,
+          "away": 39
+        },
+        "big_chances": {
+          "home": 3,
+          "away": 1
+        },
+        "total_shots": {
+          "home": 12,
+          "away": 19
+        },
+        "shots_on_target": {
+          "home": 3,
+          "away": 3
+        },
+        "shots_off_target": {
+          "home": 7,
+          "away": 12
+        },
+        "blocked_shots": {
+          "home": 2,
+          "away": 4
+        },
+        "shots_inside_box": {
+          "home": 8,
+          "away": 13
+        },
+        "shots_outside_box": {
+          "home": 4,
+          "away": 6
+        },
+        "corners": {
+          "home": 2,
+          "away": 11
+        },
+        "fouls": {
+          "home": 14,
+          "away": 15
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+2",
+          "team": "Angers"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "89",
+          "team": "Troyes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "86",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Troyes"
+        },
+        {
+          "type": "goal",
+          "minute": "57",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "51",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "42",
+          "team": "Angers"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "35",
+          "team": "Troyes"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "nZ6CZz03",
+      "date": "2026-09-19",
+      "kickoff": "14:45",
+      "home_team": "Le Mans",
+      "away_team": "Lorient",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-mans-ER0NeOOp/lorient-jgNAYRGi/?mid=nZ6CZz03",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 3,
+          "away": 3
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "79",
+          "team": "Lorient"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "78",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "75",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Lorient"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "61",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "59",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "57",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "51",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "20",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "18",
+          "team": "Lorient"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "11",
+          "team": "Lorient"
+        },
+        {
+          "type": "goal",
+          "minute": "3",
+          "team": "Le Mans"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "Kn5KXEUF",
+      "date": "2026-09-19",
+      "kickoff": "14:45",
+      "home_team": "Lyon",
+      "away_team": "Rennes",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lyon-2akflumR/rennes-d2nnj1IE/?mid=Kn5KXEUF",
+      "team_stats": {
+        "xg": {
+          "home": 3.13,
+          "away": 1.37
+        },
+        "xgot": {
+          "home": 3.5,
+          "away": 0.45
+        },
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "big_chances": {
+          "home": 6,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 15,
+          "away": 13
+        },
+        "shots_on_target": {
+          "home": 9,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 5,
+          "away": 8
+        },
+        "blocked_shots": {
+          "home": 1,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 10,
+          "away": 9
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 4
+        },
+        "corners": {
+          "home": 3,
+          "away": 8
+        },
+        "fouls": {
+          "home": 13,
+          "away": 14
+        },
+        "yellow_cards": {
+          "home": 3,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+2",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "86",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "81",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Lyon"
+        },
+        {
+          "type": "goal",
+          "minute": "76",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "48",
+          "team": "Lyon"
+        },
+        {
+          "type": "goal",
+          "minute": "30",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "16",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "7",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "2",
+          "team": "Lyon"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "2oHPT5Ts",
+      "date": "2026-09-19",
+      "kickoff": "14:45",
+      "home_team": "Toulouse",
+      "away_team": "Le Havre",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/toulouse-MLmY2yB1/?mid=2oHPT5Ts",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "88",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "81",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "79",
+          "team": "Toulouse"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "74",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Toulouse"
+        },
+        {
+          "type": "goal",
+          "minute": "71",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "58",
+          "team": "Toulouse"
+        },
+        {
+          "type": "goal",
+          "minute": "52",
+          "team": "Toulouse"
+        },
+        {
+          "type": "goal",
+          "minute": "49",
+          "team": "Toulouse"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "dnkhnEq9",
+      "date": "2026-09-19",
+      "kickoff": "11:15",
+      "home_team": "Paris FC",
+      "away_team": "Strasbourg",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/paris-fc-0OEHEprs/strasbourg-nP6UzIU1/?mid=dnkhnEq9",
+      "team_stats": {
+        "xg": {
+          "home": 1.05,
+          "away": 0.24
+        },
+        "xgot": {
+          "home": 1.28,
+          "away": 0.07
+        },
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "big_chances": {
+          "home": 1,
+          "away": 1
+        },
+        "total_shots": {
+          "home": 17,
+          "away": 5
+        },
+        "shots_on_target": {
+          "home": 7,
+          "away": 1
+        },
+        "shots_off_target": {
+          "home": 4,
+          "away": 3
+        },
+        "blocked_shots": {
+          "home": 6,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 12,
+          "away": 4
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 1
+        },
+        "corners": {
+          "home": 3,
+          "away": 0
+        },
+        "fouls": {
+          "home": 17,
+          "away": 12
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+4",
+          "team": "Paris FC"
+        },
+        {
+          "type": "goal",
+          "minute": "88",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "red_card",
+          "minute": "67",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "58",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "54",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "40",
+          "team": "Paris FC"
+        },
+        {
+          "type": "goal",
+          "minute": "18",
+          "team": "Paris FC"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "dSbbQWMk",
+      "date": "2026-09-18",
+      "kickoff": "14:45",
+      "home_team": "Monaco",
+      "away_team": "Lens",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lens-IBmris38/monaco-2PIvr8o4/?mid=dSbbQWMk",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90+2",
+          "team": "Monaco"
+        },
+        {
+          "type": "goal",
+          "minute": "84",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "57",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "53",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "32",
+          "team": "Monaco"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "QRQiAKWi",
+      "date": "2026-09-13",
+      "kickoff": "14:45",
+      "home_team": "Brest",
+      "away_team": "PSG",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/psg-CjhkPw0k/?mid=QRQiAKWi",
+      "team_stats": {
+        "xg": {
+          "home": 1.35,
+          "away": 1.06
+        },
+        "xgot": {
+          "home": 1.6,
+          "away": 1.6
+        },
+        "possession": {
+          "home": 40,
+          "away": 60
+        },
+        "big_chances": {
+          "home": 3,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 16,
+          "away": 15
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 7
+        },
+        "shots_off_target": {
+          "home": 8,
+          "away": 4
+        },
+        "blocked_shots": {
+          "home": 4,
+          "away": 4
+        },
+        "shots_inside_box": {
+          "home": 8,
+          "away": 9
+        },
+        "shots_outside_box": {
+          "home": 8,
+          "away": 6
+        },
+        "corners": {
+          "home": 3,
+          "away": 2
+        },
+        "fouls": {
+          "home": 13,
+          "away": 7
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Brest"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "87",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "84",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "39",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "30",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "5",
+          "team": "PSG"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "65S76xWG",
+      "date": "2026-09-13",
+      "kickoff": "11:15",
+      "home_team": "Le Mans",
+      "away_team": "Lens",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-mans-ER0NeOOp/lens-IBmris38/?mid=65S76xWG",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 3
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "55",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "53",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "51",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "47",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "45+2",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "44",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "38",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "32",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "28",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "20",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "16",
+          "team": "Le Mans"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "EVVF4G0T",
+      "date": "2026-09-13",
+      "kickoff": "09:00",
+      "home_team": "Lille",
+      "away_team": "Troyes",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lille-pfDZL71o/troyes-fsfAHubD/?mid=EVVF4G0T",
+      "team_stats": {
+        "xg": {
+          "home": 1.56,
+          "away": 0.44
+        },
+        "xgot": {
+          "home": 2.58,
+          "away": 0.03
+        },
+        "possession": {
+          "home": 63,
+          "away": 37
+        },
+        "big_chances": {
+          "home": 4,
+          "away": 1
+        },
+        "total_shots": {
+          "home": 13,
+          "away": 8
+        },
+        "shots_on_target": {
+          "home": 6,
+          "away": 1
+        },
+        "shots_off_target": {
+          "home": 5,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 11,
+          "away": 5
+        },
+        "shots_outside_box": {
+          "home": 2,
+          "away": 3
+        },
+        "corners": {
+          "home": 2,
+          "away": 5
+        },
+        "fouls": {
+          "home": 11,
+          "away": 20
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "90+3",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Lille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "82",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Troyes"
+        },
+        {
+          "type": "goal",
+          "minute": "18",
+          "team": "Lille"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "KUw6nHvo",
+      "date": "2026-09-12",
+      "kickoff": "14:45",
+      "home_team": "Auxerre",
+      "away_team": "Nice",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/nice-YagoQJpq/?mid=KUw6nHvo",
+      "team_stats": {
+        "xg": {
+          "home": 1.74,
+          "away": 1.08
+        },
+        "xgot": {
+          "home": 1.47,
+          "away": 1.09
+        },
+        "possession": {
+          "home": 30,
+          "away": 70
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": 11,
+          "away": 12
+        },
+        "shots_on_target": {
+          "home": 7,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 3,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 1,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 11,
+          "away": 7
+        },
+        "shots_outside_box": {
+          "home": 0,
+          "away": 5
+        },
+        "corners": {
+          "home": 3,
+          "away": 8
+        },
+        "fouls": {
+          "home": 9,
+          "away": 7
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "74",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "74",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "44",
+          "team": "Auxerre"
+        }
+      ],
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "YiUa8b14",
+      "date": "2026-09-12",
+      "kickoff": "14:45",
+      "home_team": "Le Havre",
+      "away_team": "Angers",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/angers-SAlF91iL/le-havre-CIEe04GT/?mid=YiUa8b14",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90+5",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90+4",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "32",
+          "team": "Angers"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "roMoafOj",
+      "date": "2026-09-12",
+      "kickoff": "14:45",
+      "home_team": "Lorient",
+      "away_team": "Toulouse",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lorient-jgNAYRGi/toulouse-MLmY2yB1/?mid=roMoafOj",
+      "team_stats": {
+        "xg": {
+          "home": 0.93,
+          "away": 1.63
+        },
+        "xgot": {
+          "home": 1,
+          "away": 1.99
+        },
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": 10,
+          "away": 13
+        },
+        "shots_on_target": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 4,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 6,
+          "away": 13
+        },
+        "shots_outside_box": {
+          "home": 4,
+          "away": 0
+        },
+        "corners": {
+          "home": 4,
+          "away": 3
+        },
+        "fouls": {
+          "home": 8,
+          "away": 18
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Lorient"
+        },
+        {
+          "type": "goal",
+          "minute": "69",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Lorient"
+        },
+        {
+          "type": "goal",
+          "minute": "48",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Toulouse"
+        },
+        {
+          "type": "goal",
+          "minute": "39",
+          "team": "Lorient"
+        },
+        {
+          "type": "goal",
+          "minute": "37",
+          "team": "Lorient"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "17",
+          "team": "Lorient"
+        }
+      ],
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "zu9XMcGc",
+      "date": "2026-09-12",
+      "kickoff": "14:45",
+      "home_team": "Paris FC",
+      "away_team": "Lyon",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lyon-2akflumR/paris-fc-0OEHEprs/?mid=zu9XMcGc",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "77",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "69",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "63",
+          "team": "Lyon"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "jVFmJFFM",
+      "date": "2026-09-12",
+      "kickoff": "11:15",
+      "home_team": "Strasbourg",
+      "away_team": "Monaco",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/monaco-2PIvr8o4/strasbourg-nP6UzIU1/?mid=jVFmJFFM",
+      "team_stats": {
+        "xg": {
+          "home": 1.02,
+          "away": 1.05
+        },
+        "xgot": {
+          "home": 0.29,
+          "away": 1.21
+        },
+        "possession": {
+          "home": 44,
+          "away": 56
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": 13,
+          "away": 12
+        },
+        "shots_on_target": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_off_target": {
+          "home": 8,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 6,
+          "away": 7
+        },
+        "shots_outside_box": {
+          "home": 7,
+          "away": 5
+        },
+        "corners": {
+          "home": 2,
+          "away": 7
+        },
+        "fouls": {
+          "home": 9,
+          "away": 10
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90+3",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "red_card",
+          "minute": "90+1",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Monaco"
+        },
+        {
+          "type": "goal",
+          "minute": "72",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "52",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "22",
+          "team": "Monaco"
+        }
+      ],
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    },
+    {
+      "match_id": "r5CuLyoA",
+      "date": "2026-09-11",
+      "kickoff": "14:45",
+      "home_team": "Rennes",
+      "away_team": "Marseille",
+      "home_score": 1,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/marseille-SblU3Hee/rennes-d2nnj1IE/?mid=r5CuLyoA",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+4",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "52",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Rennes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "43",
+          "team": "Rennes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "33",
+          "team": "Marseille"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "QXH1jQuJ",
+      "date": "2026-09-06",
+      "kickoff": "14:45",
+      "home_team": "Marseille",
+      "away_team": "Paris FC",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/marseille-SblU3Hee/paris-fc-0OEHEprs/?mid=QXH1jQuJ",
+      "team_stats": {
+        "xg": {
+          "home": 1.42,
+          "away": 3.29
+        },
+        "xgot": {
+          "home": 2.09,
+          "away": 3.36
+        },
+        "possession": {
+          "home": 61,
+          "away": 39
+        },
+        "big_chances": {
+          "home": 3,
+          "away": 4
+        },
+        "total_shots": {
+          "home": 14,
+          "away": 18
+        },
+        "shots_on_target": {
+          "home": 5,
+          "away": 7
+        },
+        "shots_off_target": {
+          "home": 7,
+          "away": 8
+        },
+        "blocked_shots": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 10,
+          "away": 12
+        },
+        "shots_outside_box": {
+          "home": 4,
+          "away": 6
+        },
+        "corners": {
+          "home": 5,
+          "away": 4
+        },
+        "fouls": {
+          "home": 10,
+          "away": 12
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90",
+          "team": "Paris FC"
+        },
+        {
+          "type": "goal",
+          "minute": "86",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "team": "Paris FC"
+        },
+        {
+          "type": "goal",
+          "minute": "53",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "20",
+          "team": "Paris FC"
+        },
+        {
+          "type": "goal",
+          "minute": "8",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "1",
+          "team": "Paris FC"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "SfR71jlK",
+      "date": "2026-09-06",
+      "kickoff": "11:15",
+      "home_team": "Angers",
+      "away_team": "Rennes",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/angers-SAlF91iL/rennes-d2nnj1IE/?mid=SfR71jlK",
+      "team_stats": {
+        "xg": {
+          "home": 1.66,
+          "away": 1.54
+        },
+        "xgot": {
+          "home": 0.68,
+          "away": 1.55
+        },
+        "possession": {
+          "home": 44,
+          "away": 56
+        },
+        "big_chances": {
+          "home": 2,
+          "away": 4
+        },
+        "total_shots": {
+          "home": 19,
+          "away": 17
+        },
+        "shots_on_target": {
+          "home": 3,
+          "away": 5
+        },
+        "shots_off_target": {
+          "home": 5,
+          "away": 7
+        },
+        "blocked_shots": {
+          "home": 11,
+          "away": 5
+        },
+        "shots_inside_box": {
+          "home": 12,
+          "away": 15
+        },
+        "shots_outside_box": {
+          "home": 7,
+          "away": 2
+        },
+        "corners": {
+          "home": 12,
+          "away": 6
+        },
+        "fouls": {
+          "home": 10,
+          "away": 15
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "89",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "35",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "17",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "9",
+          "team": "Rennes"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "ObhzhwHN",
+      "date": "2026-09-06",
+      "kickoff": "09:00",
+      "home_team": "Troyes",
+      "away_team": "Strasbourg",
+      "home_score": 2,
+      "away_score": 6,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/strasbourg-nP6UzIU1/troyes-fsfAHubD/?mid=ObhzhwHN",
+      "team_stats": {
+        "xg": {
+          "home": 2.94,
+          "away": 2.95
+        },
+        "xgot": {
+          "home": 2.49,
+          "away": 4.8
+        },
+        "possession": {
+          "home": 44,
+          "away": 56
+        },
+        "big_chances": {
+          "home": 3,
+          "away": 7
+        },
+        "total_shots": {
+          "home": 27,
+          "away": 19
+        },
+        "shots_on_target": {
+          "home": 6,
+          "away": 12
+        },
+        "shots_off_target": {
+          "home": 10,
+          "away": 3
+        },
+        "blocked_shots": {
+          "home": 11,
+          "away": 4
+        },
+        "shots_inside_box": {
+          "home": 18,
+          "away": 16
+        },
+        "shots_outside_box": {
+          "home": 9,
+          "away": 3
+        },
+        "corners": {
+          "home": 11,
+          "away": 0
+        },
+        "fouls": {
+          "home": 6,
+          "away": 16
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "90+5",
+          "team": "Troyes"
+        },
+        {
+          "type": "goal",
+          "minute": "90+2",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "88",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "85",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "57",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "56",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "56",
+          "team": "Troyes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "45+2",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "43",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "40",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "9",
+          "team": "Troyes"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "xUCwdUBs",
+      "date": "2026-09-05",
+      "kickoff": "14:45",
+      "home_team": "Le Havre",
+      "away_team": "Brest",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-havre-CIEe04GT/?mid=xUCwdUBs",
+      "team_stats": {
+        "xg": {
+          "home": 2.02,
+          "away": 2.37
+        },
+        "xgot": {
+          "home": 1.23,
+          "away": 2.84
+        },
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "big_chances": {
+          "home": 1,
+          "away": 5
+        },
+        "total_shots": {
+          "home": 18,
+          "away": 19
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 9
+        },
+        "shots_off_target": {
+          "home": 10,
+          "away": 8
+        },
+        "blocked_shots": {
+          "home": 4,
+          "away": 2
+        },
+        "shots_inside_box": {
+          "home": 13,
+          "away": 12
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 7
+        },
+        "corners": {
+          "home": 5,
+          "away": 5
+        },
+        "fouls": {
+          "home": 15,
+          "away": 18
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90+4",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "79",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "51",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "48",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Le Havre"
+        },
+        {
+          "type": "red_card",
+          "minute": "45+2",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "39",
+          "team": "Brest"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "38",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "22",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "12",
+          "team": "Brest"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "10",
+          "team": "Le Havre"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "zemCcsmn",
+      "date": "2026-09-05",
+      "kickoff": "14:45",
+      "home_team": "Nice",
+      "away_team": "Le Mans",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-mans-ER0NeOOp/nice-YagoQJpq/?mid=zemCcsmn",
+      "team_stats": {
+        "xg": {
+          "home": 1.12,
+          "away": 1.28
+        },
+        "xgot": {
+          "home": 1.05,
+          "away": 0.72
+        },
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "big_chances": {
+          "home": 2,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 8,
+          "away": 8
+        },
+        "shots_on_target": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_off_target": {
+          "home": 4,
+          "away": 4
+        },
+        "blocked_shots": {
+          "home": 2,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 5,
+          "away": 2
+        },
+        "shots_outside_box": {
+          "home": 3,
+          "away": 6
+        },
+        "corners": {
+          "home": 5,
+          "away": 2
+        },
+        "fouls": {
+          "home": 4,
+          "away": 11
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "85",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Nice"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "82",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "75",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "58",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "44",
+          "team": "Nice"
+        },
+        {
+          "type": "goal",
+          "minute": "13",
+          "team": "Le Mans"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "pfGof8tf",
+      "date": "2026-09-05",
+      "kickoff": "11:15",
+      "home_team": "Lens",
+      "away_team": "Lorient",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lens-IBmris38/lorient-jgNAYRGi/?mid=pfGof8tf",
+      "team_stats": {
+        "xg": {
+          "home": 1.24,
+          "away": 1.53
+        },
+        "xgot": {
+          "home": 0.41,
+          "away": 0.84
+        },
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "big_chances": {
+          "home": 4,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 17,
+          "away": 8
+        },
+        "shots_on_target": {
+          "home": 6,
+          "away": 3
+        },
+        "shots_off_target": {
+          "home": 7,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 4,
+          "away": 0
+        },
+        "shots_inside_box": {
+          "home": 10,
+          "away": 5
+        },
+        "shots_outside_box": {
+          "home": 7,
+          "away": 3
+        },
+        "corners": {
+          "home": 8,
+          "away": 0
+        },
+        "fouls": {
+          "home": 18,
+          "away": 6
+        },
+        "yellow_cards": {
+          "home": 3,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 1,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "second_yellow_red",
+          "minute": "90+2",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "85",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "77",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "54",
+          "team": "Lorient"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "14",
+          "team": "Lorient"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "88oKeLHb",
+      "date": "2026-09-04",
+      "kickoff": "15:05",
+      "home_team": "PSG",
+      "away_team": "Monaco",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/monaco-2PIvr8o4/psg-CjhkPw0k/?mid=88oKeLHb",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Monaco"
+        },
+        {
+          "type": "goal",
+          "minute": "72",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "68",
+          "team": "Monaco"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "68",
+          "team": "PSG"
+        },
+        {
+          "type": "goal",
+          "minute": "58",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "52",
+          "team": "Monaco"
+        },
+        {
+          "type": "goal",
+          "minute": "31",
+          "team": "PSG"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "I7EghnB6",
+      "date": "2026-09-04",
+      "kickoff": "13:00",
+      "home_team": "Lyon",
+      "away_team": "Auxerre",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lyon-2akflumR/?mid=I7EghnB6",
+      "team_stats": {
+        "xg": {
+          "home": 2.85,
+          "away": 0.71
+        },
+        "xgot": {
+          "home": 1.75,
+          "away": 0.54
+        },
+        "possession": {
+          "home": 64,
+          "away": 36
+        },
+        "big_chances": {
+          "home": 3,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 21,
+          "away": 8
+        },
+        "shots_on_target": {
+          "home": 7,
+          "away": 3
+        },
+        "shots_off_target": {
+          "home": 9,
+          "away": 4
+        },
+        "blocked_shots": {
+          "home": 5,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 14,
+          "away": 4
+        },
+        "shots_outside_box": {
+          "home": 7,
+          "away": 4
+        },
+        "corners": {
+          "home": 9,
+          "away": 5
+        },
+        "fouls": {
+          "home": 11,
+          "away": 8
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90+3",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "77",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "68",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "66",
+          "team": "Lyon"
+        },
+        {
+          "type": "goal",
+          "minute": "54",
+          "team": "Lyon"
+        },
+        {
+          "type": "goal",
+          "minute": "42",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "31",
+          "team": "Lyon"
+        },
+        {
+          "type": "goal",
+          "minute": "28",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "26",
+          "team": "Auxerre"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "GYlSganB",
+      "date": "2026-09-03",
+      "kickoff": "14:45",
+      "home_team": "Toulouse",
+      "away_team": "Lille",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lille-pfDZL71o/toulouse-MLmY2yB1/?mid=GYlSganB",
+      "team_stats": {
+        "xg": {
+          "home": 3.46,
+          "away": 1.21
+        },
+        "xgot": {
+          "home": 1.8,
+          "away": 2.6
+        },
+        "possession": {
+          "home": 54,
+          "away": 46
+        },
+        "big_chances": {
+          "home": 5,
+          "away": 1
+        },
+        "total_shots": {
+          "home": 24,
+          "away": 10
+        },
+        "shots_on_target": {
+          "home": 10,
+          "away": 6
+        },
+        "shots_off_target": {
+          "home": 11,
+          "away": 2
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 2
+        },
+        "shots_inside_box": {
+          "home": 14,
+          "away": 6
+        },
+        "shots_outside_box": {
+          "home": 10,
+          "away": 4
+        },
+        "corners": {
+          "home": 6,
+          "away": 2
+        },
+        "fouls": {
+          "home": 16,
+          "away": 9
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "73",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Lille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "20",
+          "team": "Toulouse"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "OvnzmiZQ",
+      "date": "2026-08-30",
+      "kickoff": "14:45",
+      "home_team": "Monaco",
+      "away_team": "Marseille",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/marseille-SblU3Hee/monaco-2PIvr8o4/?mid=OvnzmiZQ",
+      "team_stats": {
+        "xg": {
+          "home": 1.72,
+          "away": 1.4
+        },
+        "xgot": {
+          "home": 2.94,
+          "away": 0.26
+        },
+        "possession": {
+          "home": 35,
+          "away": 65
+        },
+        "big_chances": {
+          "home": 3,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 11,
+          "away": 13
+        },
+        "shots_on_target": {
+          "home": 5,
+          "away": 2
+        },
+        "shots_off_target": {
+          "home": 4,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 2,
+          "away": 5
+        },
+        "shots_inside_box": {
+          "home": 7,
+          "away": 7
+        },
+        "shots_outside_box": {
+          "home": 4,
+          "away": 6
+        },
+        "corners": {
+          "home": 5,
+          "away": 7
+        },
+        "fouls": {
+          "home": 9,
+          "away": 10
+        },
+        "yellow_cards": {
+          "home": 4,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+2",
+          "team": "Monaco"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "88",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "58",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "53",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Marseille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "44",
+          "team": "Monaco"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "43",
+          "team": "Monaco"
+        },
+        {
+          "type": "goal",
+          "minute": "13",
+          "team": "Monaco"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "SzyEu9R0",
+      "date": "2026-08-30",
+      "kickoff": "11:15",
+      "home_team": "Rennes",
+      "away_team": "Le Mans",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-mans-ER0NeOOp/rennes-d2nnj1IE/?mid=SzyEu9R0",
+      "team_stats": {
+        "xg": {
+          "home": 3.12,
+          "away": 3.06
+        },
+        "xgot": {
+          "home": 3.37,
+          "away": 2.45
+        },
+        "possession": {
+          "home": 64,
+          "away": 36
+        },
+        "big_chances": {
+          "home": 7,
+          "away": 4
+        },
+        "total_shots": {
+          "home": 22,
+          "away": 12
+        },
+        "shots_on_target": {
+          "home": 8,
+          "away": 5
+        },
+        "shots_off_target": {
+          "home": 8,
+          "away": 4
+        },
+        "blocked_shots": {
+          "home": 6,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 17,
+          "away": 8
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 4
+        },
+        "corners": {
+          "home": 8,
+          "away": 6
+        },
+        "fouls": {
+          "home": 15,
+          "away": 15
+        },
+        "yellow_cards": {
+          "home": 3,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "match_events": [
+        {
+          "type": "red_card",
+          "minute": "90+12",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90+12",
+          "team": "Rennes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90+6",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "90+6",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "74",
+          "team": "Rennes"
+        },
+        {
+          "type": "red_card",
+          "minute": "69",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "66",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "54",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "48",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "30",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "26",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "5",
+          "team": "Rennes"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "KAX5sVdl",
+      "date": "2026-08-30",
+      "kickoff": "09:00",
+      "home_team": "Paris FC",
+      "away_team": "Nice",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/nice-YagoQJpq/paris-fc-0OEHEprs/?mid=KAX5sVdl",
+      "team_stats": {
+        "xg": {
+          "home": 2.38,
+          "away": 0.78
+        },
+        "xgot": {
+          "home": 2,
+          "away": 0.39
+        },
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "big_chances": {
+          "home": 5,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 15,
+          "away": 16
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 7,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 4,
+          "away": 6
+        },
+        "shots_inside_box": {
+          "home": 10,
+          "away": 9
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 7
+        },
+        "corners": {
+          "home": 2,
+          "away": 4
+        },
+        "fouls": {
+          "home": 7,
+          "away": 7
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "89",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "82",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Nice"
+        },
+        {
+          "type": "goal",
+          "minute": "51",
+          "team": "Paris FC"
+        },
+        {
+          "type": "goal",
+          "minute": "21",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "18",
+          "team": "Nice"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "EDlezEkL",
+      "date": "2026-08-29",
+      "kickoff": "14:45",
+      "home_team": "Auxerre",
+      "away_team": "Angers",
+      "home_score": 1,
+      "away_score": 3,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/angers-SAlF91iL/auxerre-MTLr36WA/?mid=EDlezEkL",
+      "team_stats": {
+        "xg": {
+          "home": 1.81,
+          "away": 1.55
+        },
+        "xgot": {
+          "home": 1.56,
+          "away": 2.22
+        },
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "big_chances": {
+          "home": 5,
+          "away": 4
+        },
+        "total_shots": {
+          "home": 20,
+          "away": 15
+        },
+        "shots_on_target": {
+          "home": 7,
+          "away": 6
+        },
+        "shots_off_target": {
+          "home": 10,
+          "away": 4
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 5
+        },
+        "shots_inside_box": {
+          "home": 10,
+          "away": 11
+        },
+        "shots_outside_box": {
+          "home": 10,
+          "away": 4
+        },
+        "corners": {
+          "home": 7,
+          "away": 10
+        },
+        "fouls": {
+          "home": 16,
+          "away": 6
+        },
+        "yellow_cards": {
+          "home": null,
+          "away": null
+        },
+        "red_cards": {
+          "home": null,
+          "away": null
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+4",
+          "team": null
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90+3",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90+3",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "78",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "70",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "50",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "35",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "28",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "5",
+          "team": "Angers"
+        }
+      ],
+      "warnings": [
+        "unresolved_card_team_attribution"
+      ]
+    },
+    {
+      "match_id": "AckQUiDr",
+      "date": "2026-08-29",
+      "kickoff": "14:45",
+      "home_team": "Brest",
+      "away_team": "Toulouse",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/toulouse-MLmY2yB1/?mid=AckQUiDr",
+      "team_stats": {
+        "xg": {
+          "home": 3.04,
+          "away": 1.14
+        },
+        "xgot": {
+          "home": 3.31,
+          "away": 1.61
+        },
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "big_chances": {
+          "home": 6,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 27,
+          "away": 6
+        },
+        "shots_on_target": {
+          "home": 7,
+          "away": 2
+        },
+        "shots_off_target": {
+          "home": 12,
+          "away": 3
+        },
+        "blocked_shots": {
+          "home": 8,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 16,
+          "away": 4
+        },
+        "shots_outside_box": {
+          "home": 11,
+          "away": 2
+        },
+        "corners": {
+          "home": 7,
+          "away": 2
+        },
+        "fouls": {
+          "home": 19,
+          "away": 18
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 3
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "90+5",
+          "team": "Brest"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "90+4",
+          "team": "Toulouse"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "89",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Toulouse"
+        },
+        {
+          "type": "goal",
+          "minute": "62",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "Toulouse"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "45+3",
+          "team": "Toulouse"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "31",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "18",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "9",
+          "team": "Toulouse"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "jyitR9C7",
+      "date": "2026-08-29",
+      "kickoff": "14:45",
+      "home_team": "Lorient",
+      "away_team": "Troyes",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lorient-jgNAYRGi/troyes-fsfAHubD/?mid=jyitR9C7",
+      "team_stats": {
+        "xg": {
+          "home": 1.15,
+          "away": 2.12
+        },
+        "xgot": {
+          "home": 2.46,
+          "away": 1.78
+        },
+        "possession": {
+          "home": 68,
+          "away": 32
+        },
+        "big_chances": {
+          "home": 2,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 15,
+          "away": 11
+        },
+        "shots_on_target": {
+          "home": 6,
+          "away": 2
+        },
+        "shots_off_target": {
+          "home": 6,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_inside_box": {
+          "home": 9,
+          "away": 10
+        },
+        "shots_outside_box": {
+          "home": 6,
+          "away": 1
+        },
+        "corners": {
+          "home": 2,
+          "away": 5
+        },
+        "fouls": {
+          "home": 9,
+          "away": 11
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "84",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "66",
+          "team": "Lorient"
+        },
+        {
+          "type": "goal",
+          "minute": "51",
+          "team": "Lorient"
+        },
+        {
+          "type": "goal",
+          "minute": "38",
+          "team": "Troyes"
+        },
+        {
+          "type": "goal",
+          "minute": "29",
+          "team": "Troyes"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "IsqSlD4E",
+      "date": "2026-08-29",
+      "kickoff": "14:45",
+      "home_team": "Lyon",
+      "away_team": "Le Havre",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/lyon-2akflumR/?mid=IsqSlD4E",
+      "team_stats": {
+        "xg": {
+          "home": 1.75,
+          "away": 0.69
+        },
+        "xgot": {
+          "home": 1.27,
+          "away": 1.43
+        },
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "big_chances": {
+          "home": 5,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 15,
+          "away": 12
+        },
+        "shots_on_target": {
+          "home": 5,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 6,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 4,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 12,
+          "away": 8
+        },
+        "shots_outside_box": {
+          "home": 3,
+          "away": 4
+        },
+        "corners": {
+          "home": 5,
+          "away": 5
+        },
+        "fouls": {
+          "home": 7,
+          "away": 16
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+6",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "87",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "74",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "65",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "65",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "41",
+          "team": "Le Havre"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "z1vMwmdD",
+      "date": "2026-08-29",
+      "kickoff": "11:15",
+      "home_team": "Strasbourg",
+      "away_team": "Lens",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lens-IBmris38/strasbourg-nP6UzIU1/?mid=z1vMwmdD",
+      "team_stats": {
+        "xg": {
+          "home": 1.83,
+          "away": 2.91
+        },
+        "xgot": {
+          "home": 2.64,
+          "away": 1.74
+        },
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "big_chances": {
+          "home": 4,
+          "away": 5
+        },
+        "total_shots": {
+          "home": 16,
+          "away": 17
+        },
+        "shots_on_target": {
+          "home": 7,
+          "away": 7
+        },
+        "shots_off_target": {
+          "home": 6,
+          "away": 6
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 4
+        },
+        "shots_inside_box": {
+          "home": 12,
+          "away": 12
+        },
+        "shots_outside_box": {
+          "home": 4,
+          "away": 5
+        },
+        "corners": {
+          "home": 3,
+          "away": 6
+        },
+        "fouls": {
+          "home": 10,
+          "away": 11
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "90",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "90",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "89",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "85",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "83",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "80",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "69",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "48",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "38",
+          "team": "Lens"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "36",
+          "team": "Strasbourg"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "INhYSVse",
+      "date": "2026-08-28",
+      "kickoff": "14:45",
+      "home_team": "Lille",
+      "away_team": "PSG",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lille-pfDZL71o/psg-CjhkPw0k/?mid=INhYSVse",
+      "team_stats": {
+        "xg": {
+          "home": 1.27,
+          "away": 1.44
+        },
+        "xgot": {
+          "home": 1.87,
+          "away": 1.73
+        },
+        "possession": {
+          "home": 27,
+          "away": 73
+        },
+        "big_chances": {
+          "home": 2,
+          "away": 5
+        },
+        "total_shots": {
+          "home": 9,
+          "away": 18
+        },
+        "shots_on_target": {
+          "home": 4,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 4,
+          "away": 13
+        },
+        "blocked_shots": {
+          "home": 1,
+          "away": 1
+        },
+        "shots_inside_box": {
+          "home": 6,
+          "away": 7
+        },
+        "shots_outside_box": {
+          "home": 3,
+          "away": 11
+        },
+        "corners": {
+          "home": 0,
+          "away": 5
+        },
+        "fouls": {
+          "home": 11,
+          "away": 7
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "90+5",
+          "team": "PSG"
+        },
+        {
+          "type": "goal",
+          "minute": "90+1",
+          "team": "PSG"
+        },
+        {
+          "type": "goal",
+          "minute": "84",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "68",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "61",
+          "team": "Lille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "52",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "PSG"
+        },
+        {
+          "type": "goal",
+          "minute": "21",
+          "team": "Lille"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "p2AX2W4D",
+      "date": "2026-08-23",
+      "kickoff": "14:45",
+      "home_team": "Rennes",
+      "away_team": "PSG",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/psg-CjhkPw0k/rennes-d2nnj1IE/?mid=p2AX2W4D",
+      "team_stats": {
+        "xg": {
+          "home": 0.87,
+          "away": 2.16
+        },
+        "xgot": {
+          "home": 0.88,
+          "away": 2.37
+        },
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "big_chances": {
+          "home": 2,
+          "away": 4
+        },
+        "total_shots": {
+          "home": 9,
+          "away": 19
+        },
+        "shots_on_target": {
+          "home": 3,
+          "away": 5
+        },
+        "shots_off_target": {
+          "home": 5,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 1,
+          "away": 9
+        },
+        "shots_inside_box": {
+          "home": 3,
+          "away": 9
+        },
+        "shots_outside_box": {
+          "home": 6,
+          "away": 10
+        },
+        "corners": {
+          "home": 0,
+          "away": 10
+        },
+        "fouls": {
+          "home": 7,
+          "away": 6
+        },
+        "yellow_cards": {
+          "home": null,
+          "away": null
+        },
+        "red_cards": {
+          "home": null,
+          "away": null
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Rennes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "84",
+          "team": "PSG"
+        },
+        {
+          "type": "goal",
+          "minute": "82",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "78",
+          "team": "Rennes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "76",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "71",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "64",
+          "team": null
+        },
+        {
+          "type": "yellow_card",
+          "minute": "63",
+          "team": "Rennes"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "PSG"
+        },
+        {
+          "type": "substitution",
+          "minute": "46",
+          "team": "PSG"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "42",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "38",
+          "team": "Rennes"
+        },
+        {
+          "type": "goal",
+          "minute": "9",
+          "team": "Rennes"
+        }
+      ],
+      "warnings": [
+        "unresolved_card_team_attribution"
+      ]
+    },
+    {
+      "match_id": "zkSijgL7",
+      "date": "2026-08-23",
+      "kickoff": "11:15",
+      "home_team": "Le Havre",
+      "away_team": "Monaco",
+      "home_score": 0,
+      "away_score": 1,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/le-havre-CIEe04GT/monaco-2PIvr8o4/?mid=zkSijgL7",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "89",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "66",
+          "team": "Monaco"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "64",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "team": "Monaco"
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "team": "Monaco"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "44",
+          "team": "Le Havre"
+        },
+        {
+          "type": "substitution",
+          "minute": "40",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "26",
+          "team": "Le Havre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "21",
+          "team": "Le Havre"
+        },
+        {
+          "type": "goal",
+          "minute": "14",
+          "team": "Monaco"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "lYTqhFje",
+      "date": "2026-08-23",
+      "kickoff": "09:00",
+      "home_team": "Angers",
+      "away_team": "Lille",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/angers-SAlF91iL/lille-pfDZL71o/?mid=lYTqhFje",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "85",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Lille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "74",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "73",
+          "team": "Angers"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "72",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "64",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Lille"
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "team": "Angers"
+        },
+        {
+          "type": "substitution",
+          "minute": "57",
+          "team": "Lille"
+        },
+        {
+          "type": "goal",
+          "minute": "31",
+          "team": "Lille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "22",
+          "team": "Angers"
+        },
+        {
+          "type": "goal",
+          "minute": "11",
+          "team": "Lille"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "2eKwEdDE",
+      "date": "2026-08-22",
+      "kickoff": "14:45",
+      "home_team": "Le Mans",
+      "away_team": "Brest",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/brest-Cr4VGaUl/le-mans-ER0NeOOp/?mid=2eKwEdDE",
+      "team_stats": {
+        "xg": {
+          "home": 0.67,
+          "away": 2.72
+        },
+        "xgot": {
+          "home": 1.09,
+          "away": 1.79
+        },
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "big_chances": {
+          "home": 1,
+          "away": 5
+        },
+        "total_shots": {
+          "home": 8,
+          "away": 26
+        },
+        "shots_on_target": {
+          "home": 5,
+          "away": 7
+        },
+        "shots_off_target": {
+          "home": 2,
+          "away": 15
+        },
+        "blocked_shots": {
+          "home": 1,
+          "away": 4
+        },
+        "shots_inside_box": {
+          "home": 5,
+          "away": 23
+        },
+        "shots_outside_box": {
+          "home": 3,
+          "away": 3
+        },
+        "corners": {
+          "home": 1,
+          "away": 10
+        },
+        "fouls": {
+          "home": 14,
+          "away": 12
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Brest"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Le Mans"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "62",
+          "team": "Brest"
+        },
+        {
+          "type": "goal",
+          "minute": "55",
+          "team": "Le Mans"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "51",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "45+2",
+          "team": "Le Mans"
+        },
+        {
+          "type": "goal",
+          "minute": "31",
+          "team": "Brest"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "ClCP4hz1",
+      "date": "2026-08-22",
+      "kickoff": "14:45",
+      "home_team": "Nice",
+      "away_team": "Lorient",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lorient-jgNAYRGi/nice-YagoQJpq/?mid=ClCP4hz1",
+      "team_stats": {
+        "xg": {
+          "home": 1.05,
+          "away": 1.28
+        },
+        "xgot": {
+          "home": 0.23,
+          "away": 0.18
+        },
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "big_chances": {
+          "home": 1,
+          "away": 3
+        },
+        "total_shots": {
+          "home": 14,
+          "away": 10
+        },
+        "shots_on_target": {
+          "home": 1,
+          "away": 2
+        },
+        "shots_off_target": {
+          "home": 7,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 6,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 8,
+          "away": 8
+        },
+        "shots_outside_box": {
+          "home": 6,
+          "away": 2
+        },
+        "corners": {
+          "home": 9,
+          "away": 3
+        },
+        "fouls": {
+          "home": 15,
+          "away": 8
+        },
+        "yellow_cards": {
+          "home": 0,
+          "away": 0
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "88",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Nice"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "72",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "70",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Lorient"
+        },
+        {
+          "type": "substitution",
+          "minute": "60",
+          "team": "Nice"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "C82JQZdK",
+      "date": "2026-08-22",
+      "kickoff": "14:45",
+      "home_team": "Toulouse",
+      "away_team": "Lyon",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/lyon-2akflumR/toulouse-MLmY2yB1/?mid=C82JQZdK",
+      "team_stats": {
+        "xg": {
+          "home": 2.77,
+          "away": 0.7
+        },
+        "xgot": {
+          "home": 0.44,
+          "away": 1.53
+        },
+        "possession": {
+          "home": 48,
+          "away": 52
+        },
+        "big_chances": {
+          "home": 4,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 17,
+          "away": 11
+        },
+        "shots_on_target": {
+          "home": 2,
+          "away": 3
+        },
+        "shots_off_target": {
+          "home": 12,
+          "away": 5
+        },
+        "blocked_shots": {
+          "home": 3,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 12,
+          "away": 7
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 4
+        },
+        "corners": {
+          "home": 6,
+          "away": 5
+        },
+        "fouls": {
+          "home": 15,
+          "away": 15
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "yellow_card",
+          "minute": "90+4",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Toulouse"
+        },
+        {
+          "type": "goal",
+          "minute": "85",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "80",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Toulouse"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Lyon"
+        },
+        {
+          "type": "goal",
+          "minute": "68",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Lyon"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "45",
+          "team": "Lyon"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "31",
+          "team": "Toulouse"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "rigkLDKs",
+      "date": "2026-08-22",
+      "kickoff": "14:45",
+      "home_team": "Troyes",
+      "away_team": "Paris FC",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/paris-fc-0OEHEprs/troyes-fsfAHubD/?mid=rigkLDKs",
+      "team_stats": {
+        "xg": {
+          "home": null,
+          "away": null
+        },
+        "xgot": {
+          "home": null,
+          "away": null
+        },
+        "possession": {
+          "home": null,
+          "away": null
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_on_target": {
+          "home": null,
+          "away": null
+        },
+        "shots_off_target": {
+          "home": null,
+          "away": null
+        },
+        "blocked_shots": {
+          "home": null,
+          "away": null
+        },
+        "shots_inside_box": {
+          "home": null,
+          "away": null
+        },
+        "shots_outside_box": {
+          "home": null,
+          "away": null
+        },
+        "corners": {
+          "home": null,
+          "away": null
+        },
+        "fouls": {
+          "home": null,
+          "away": null
+        },
+        "yellow_cards": {
+          "home": 2,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      "match_events": [
+        {
+          "type": "substitution",
+          "minute": "86",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "81",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Paris FC"
+        },
+        {
+          "type": "substitution",
+          "minute": "76",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Troyes"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "69",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "63",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "62",
+          "team": "Paris FC"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "56",
+          "team": "Troyes"
+        },
+        {
+          "type": "substitution",
+          "minute": "55",
+          "team": "Troyes"
+        }
+      ],
+      "warnings": [
+        "missing_stat:xg",
+        "missing_stat:xgot",
+        "missing_stat:possession",
+        "missing_stat:big_chances",
+        "missing_stat:total_shots",
+        "missing_stat:shots_on_target",
+        "missing_stat:shots_off_target",
+        "missing_stat:blocked_shots",
+        "missing_stat:shots_inside_box",
+        "missing_stat:shots_outside_box",
+        "missing_stat:corners",
+        "missing_stat:fouls"
+      ]
+    },
+    {
+      "match_id": "z9IoCzrR",
+      "date": "2026-08-22",
+      "kickoff": "11:15",
+      "home_team": "Lens",
+      "away_team": "Auxerre",
+      "home_score": 5,
+      "away_score": 2,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/auxerre-MTLr36WA/lens-IBmris38/?mid=z9IoCzrR",
+      "team_stats": {
+        "xg": {
+          "home": 4.41,
+          "away": 1.84
+        },
+        "xgot": {
+          "home": 3.91,
+          "away": 1.8
+        },
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "big_chances": {
+          "home": 10,
+          "away": 2
+        },
+        "total_shots": {
+          "home": 12,
+          "away": 10
+        },
+        "shots_on_target": {
+          "home": 9,
+          "away": 4
+        },
+        "shots_off_target": {
+          "home": 2,
+          "away": 3
+        },
+        "blocked_shots": {
+          "home": 1,
+          "away": 3
+        },
+        "shots_inside_box": {
+          "home": 10,
+          "away": 5
+        },
+        "shots_outside_box": {
+          "home": 2,
+          "away": 5
+        },
+        "corners": {
+          "home": 4,
+          "away": 7
+        },
+        "fouls": {
+          "home": 6,
+          "away": 21
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 1
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "88",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "87",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "86",
+          "team": "Auxerre"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "84",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "77",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "71",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "69",
+          "team": "Auxerre"
+        },
+        {
+          "type": "substitution",
+          "minute": "67",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "66",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Lens"
+        },
+        {
+          "type": "substitution",
+          "minute": "62",
+          "team": "Lens"
+        },
+        {
+          "type": "goal",
+          "minute": "61",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "49",
+          "team": "Lens"
+        },
+        {
+          "type": "red_card",
+          "minute": "35",
+          "team": "Auxerre"
+        },
+        {
+          "type": "goal",
+          "minute": "12",
+          "team": "Lens"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "match_id": "6i9H6E5l",
+      "date": "2026-08-21",
+      "kickoff": "14:45",
+      "home_team": "Marseille",
+      "away_team": "Strasbourg",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "Finished",
+      "source_url": "https://www.flashscore.com/match/football/marseille-SblU3Hee/strasbourg-nP6UzIU1/?mid=6i9H6E5l",
+      "team_stats": {
+        "xg": {
+          "home": 1.86,
+          "away": 0.18
+        },
+        "xgot": {
+          "home": 2.02,
+          "away": 0.08
+        },
+        "possession": {
+          "home": 67,
+          "away": 33
+        },
+        "big_chances": {
+          "home": null,
+          "away": null
+        },
+        "total_shots": {
+          "home": 14,
+          "away": 5
+        },
+        "shots_on_target": {
+          "home": 8,
+          "away": 2
+        },
+        "shots_off_target": {
+          "home": 4,
+          "away": 3
+        },
+        "blocked_shots": {
+          "home": 2,
+          "away": 0
+        },
+        "shots_inside_box": {
+          "home": 9,
+          "away": 3
+        },
+        "shots_outside_box": {
+          "home": 5,
+          "away": 2
+        },
+        "corners": {
+          "home": 3,
+          "away": 4
+        },
+        "fouls": {
+          "home": 6,
+          "away": 12
+        },
+        "yellow_cards": {
+          "home": 1,
+          "away": 2
+        },
+        "red_cards": {
+          "home": 0,
+          "away": 2
+        }
+      },
+      "match_events": [
+        {
+          "type": "goal",
+          "minute": "90+6",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "90+1",
+          "team": "Marseille"
+        },
+        {
+          "type": "goal",
+          "minute": "89",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "83",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "79",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "79",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "75",
+          "team": "Marseille"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "substitution",
+          "minute": "69",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "68",
+          "team": "Marseille"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "61",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "red_card",
+          "minute": "59",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "red_card",
+          "minute": "59",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "yellow_card",
+          "minute": "48",
+          "team": "Strasbourg"
+        },
+        {
+          "type": "goal",
+          "minute": "47",
+          "team": "Marseille"
+        }
+      ],
+      "warnings": [
+        "missing_stat:big_chances"
+      ]
+    }
+  ],
+  "kickoff_timezone_note": "Kickoff values reflect the time shown on Flashscore; the scraped page did not explicitly state a timezone."
+}
