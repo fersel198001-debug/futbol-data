@@ -1,0 +1,696 @@
+{
+  "source": "Flashscore",
+  "source_url": "https://www.flashscore.com/football/belgium/jupiler-pro-league/results/",
+  "competition": "Belgium — Jupiler Pro League",
+  "season": "2026/27",
+  "as_of_date": "2026-10-06",
+  "generated_at": "2026-10-06T20:31:14.683Z",
+  "total_records": 63,
+  "finished_matches": 63,
+  "non_finished_matches": 0,
+  "duplicate_matches": 0,
+  "duplicates_removed": 0,
+  "conflicts": 0,
+  "conflict_details": [],
+  "date_range": {
+    "start": "2026-08-07",
+    "end": "2026-09-20"
+  },
+  "team_count": 18,
+  "teams": [
+    "Anderlecht",
+    "Antwerp",
+    "Beveren",
+    "Cercle Brugge KSV",
+    "Charleroi",
+    "Club Brugge KV",
+    "Genk",
+    "Gent",
+    "KV Mechelen",
+    "Kortrijk",
+    "Leuven",
+    "Lommel SK",
+    "RAAL La Louviere",
+    "Royale Union SG",
+    "St. Liege",
+    "St. Truiden",
+    "Waregem",
+    "Westerlo"
+  ],
+  "matches_with_team_stats": 63,
+  "matches_without_team_stats": 0,
+  "matches_with_xg": 63,
+  "matches_without_xg": 0,
+  "matches_with_complete_score": 63,
+  "matches_with_incomplete_score": 0,
+  "null_field_counts": {
+    "team_stats.headed_goals.home": 33,
+    "team_stats.headed_goals.away": 33,
+    "team_stats.headed_goals.source_label": 33,
+    "team_stats.errors_leading_to_shot.home": 42,
+    "team_stats.errors_leading_to_shot.away": 42,
+    "team_stats.errors_leading_to_shot.source_label": 42,
+    "team_stats.errors_leading_to_goal.home": 42,
+    "team_stats.errors_leading_to_goal.away": 42,
+    "team_stats.errors_leading_to_goal.source_label": 42,
+    "team_stats.offsides.home": 19,
+    "team_stats.offsides.away": 19,
+    "team_stats.offsides.source_label": 19,
+    "team_stats.big_chances.home": 16,
+    "team_stats.big_chances.away": 16,
+    "team_stats.big_chances.source_label": 16,
+    "team_stats.big_chances_missed.home": 16,
+    "team_stats.big_chances_missed.away": 16,
+    "team_stats.big_chances_missed.source_label": 16,
+    "team_stats.big_chances_scored.home": 16,
+    "team_stats.big_chances_scored.away": 16,
+    "team_stats.big_chances_scored.source_label": 16,
+    "team_stats.goals_prevented.home": 4,
+    "team_stats.goals_prevented.away": 4,
+    "team_stats.goals_prevented.source_label": 4,
+    "team_stats.goalkeeper_saves.home": 3,
+    "team_stats.goalkeeper_saves.away": 3,
+    "team_stats.goalkeeper_saves.source_label": 3
+  },
+  "anomalous_records": [],
+  "problem_matches": [
+    {
+      "flashscore_match_id": "baFyo3tH",
+      "url": "https://www.flashscore.com/match/football/kortrijk-2o6njvyG/sk-beveren-QaqfE8WE/?mid=baFyo3tH",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "ILDLlosh",
+      "url": "https://www.flashscore.com/match/football/st-truiden-d2EjBxMM/westerlo-hYaM5Gqp/?mid=ILDLlosh",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "jFLZQsko",
+      "url": "https://www.flashscore.com/match/football/antwerp-rVpPxw8H/royale-union-sg-407h8Ird/?mid=jFLZQsko",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "fVK4W3RN",
+      "url": "https://www.flashscore.com/match/football/kv-mechelen-ULVIb27i/lommel-sk-8EyXqyoo/?mid=fVK4W3RN",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "6RFtx8cn",
+      "url": "https://www.flashscore.com/match/football/leuven-dYlTycNN/raal-la-louviere-K0H6jm7P/?mid=6RFtx8cn",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "jFuXH4CU",
+      "url": "https://www.flashscore.com/match/football/gent-MgkzUx7T/st-liege-vsnvCI6G/?mid=jFuXH4CU",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "4vy9N8rg",
+      "url": "https://www.flashscore.com/match/football/genk-r3jWUIiN/gent-MgkzUx7T/?mid=4vy9N8rg",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "Sbci5RSO",
+      "url": "https://www.flashscore.com/match/football/cercle-brugge-IXnm9vwh/leuven-dYlTycNN/?mid=Sbci5RSO",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "foaq7mbC",
+      "url": "https://www.flashscore.com/match/football/lommel-sk-8EyXqyoo/royale-union-sg-407h8Ird/?mid=foaq7mbC",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "vehTAVbm",
+      "url": "https://www.flashscore.com/match/football/sk-beveren-QaqfE8WE/st-truiden-d2EjBxMM/?mid=vehTAVbm",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "OAd4fAE6",
+      "url": "https://www.flashscore.com/match/football/anderlecht-vslqAKNo/genk-r3jWUIiN/?mid=OAd4fAE6",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "6moVhcw2",
+      "url": "https://www.flashscore.com/match/football/antwerp-rVpPxw8H/st-liege-vsnvCI6G/?mid=6moVhcw2",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "bsYGG0V8",
+      "url": "https://www.flashscore.com/match/football/raal-la-louviere-K0H6jm7P/st-truiden-d2EjBxMM/?mid=bsYGG0V8",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed",
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "MNcktKgd",
+      "url": "https://www.flashscore.com/match/football/waregem-jPDfAdyT/westerlo-hYaM5Gqp/?mid=MNcktKgd",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "IR8Bm21M",
+      "url": "https://www.flashscore.com/match/football/antwerp-rVpPxw8H/st-truiden-d2EjBxMM/?mid=IR8Bm21M",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "p0e4kOW9",
+      "url": "https://www.flashscore.com/match/football/club-brugge-rgTHIK74/gent-MgkzUx7T/?mid=p0e4kOW9",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "Cncdip2c",
+      "url": "https://www.flashscore.com/match/football/cercle-brugge-IXnm9vwh/lommel-sk-8EyXqyoo/?mid=Cncdip2c",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "tpGWzPHG",
+      "url": "https://www.flashscore.com/match/football/kv-mechelen-ULVIb27i/raal-la-louviere-K0H6jm7P/?mid=tpGWzPHG",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "zmDOxom4",
+      "url": "https://www.flashscore.com/match/football/genk-r3jWUIiN/sk-beveren-QaqfE8WE/?mid=zmDOxom4",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed",
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "zTMUG3Qp",
+      "url": "https://www.flashscore.com/match/football/lommel-sk-8EyXqyoo/westerlo-hYaM5Gqp/?mid=zTMUG3Qp",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "xjWzSTYo",
+      "url": "https://www.flashscore.com/match/football/charleroi-WIPDJ0hb/kv-mechelen-ULVIb27i/?mid=xjWzSTYo",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed",
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "AsTRz40J",
+      "url": "https://www.flashscore.com/match/football/sk-beveren-QaqfE8WE/waregem-jPDfAdyT/?mid=AsTRz40J",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "pMCCvn1f",
+      "url": "https://www.flashscore.com/match/football/charleroi-WIPDJ0hb/lommel-sk-8EyXqyoo/?mid=pMCCvn1f",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "O6r1XUgR",
+      "url": "https://www.flashscore.com/match/football/antwerp-rVpPxw8H/kortrijk-2o6njvyG/?mid=O6r1XUgR",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "GtugZjPE",
+      "url": "https://www.flashscore.com/match/football/royale-union-sg-407h8Ird/waregem-jPDfAdyT/?mid=GtugZjPE",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "APoiFVXr",
+      "url": "https://www.flashscore.com/match/football/anderlecht-vslqAKNo/raal-la-louviere-K0H6jm7P/?mid=APoiFVXr",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "Eg0LKiAL",
+      "url": "https://www.flashscore.com/match/football/genk-r3jWUIiN/waregem-jPDfAdyT/?mid=Eg0LKiAL",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed",
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "6TdDMDu9",
+      "url": "https://www.flashscore.com/match/football/gent-MgkzUx7T/kv-mechelen-ULVIb27i/?mid=6TdDMDu9",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "ELfSbAm2",
+      "url": "https://www.flashscore.com/match/football/royale-union-sg-407h8Ird/westerlo-hYaM5Gqp/?mid=ELfSbAm2",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "big_chances",
+            "big_chances_missed",
+            "offsides"
+          ]
+        }
+      ]
+    },
+    {
+      "flashscore_match_id": "AP5l6heS",
+      "url": "https://www.flashscore.com/match/football/cercle-brugge-IXnm9vwh/st-liege-vsnvCI6G/?mid=AP5l6heS",
+      "issues": [
+        {
+          "type": "requested_statistics_unavailable",
+          "fields": [
+            "offsides"
+          ]
+        }
+      ]
+    }
+  ],
+  "problem_records": 30,
+  "player_stats_count": 0,
+  "excluded_matches": [],
+  "coverage": {
+    "results_list_records": 63,
+    "match_pages_collected": 63,
+    "records_delivered": 63,
+    "all_visible_results_processed": true,
+    "results_visible_load_more": false,
+    "observed_rounds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "complete_relative_to_accessible_flashscore_results": true,
+    "independent_real_world_completeness_verified": false,
+    "fixtures_first_visible_date": "2026-10-09",
+    "note": "Only accessible Flashscore 2026/2027 results included. Finished confirmed individually. No other source used; no external completeness guarantee."
+  },
+  "field_definitions": {
+    "timezone": "Kickoff times exactly as displayed in browser Europe/Moscow (UTC+03:00), not Belgian local time.",
+    "team_stats": "Overall full-match team statistics. Home/away ordered by DOM, not URL team slugs. Percent values numeric 0–100; accurate passes counts plus separate percentage when shown.",
+    "source_labels": "Original text labels retained; cards from explicit labelled icon badges.",
+    "missing": "Unavailable values null. Real visible zero remains 0. No estimates or player events.",
+    "complete_score": "Both half-time and full-time scores present for both teams.",
+    "problem_records": "Includes missing requested fields as well as anomalies; does not necessarily mean incorrect delivered records."
+  },
+  "checks": {
+    "valid_json": true,
+    "only_requested_competition_and_season": true,
+    "only_finished": true,
+    "no_future_matches": true,
+    "no_duplicate_ids": true,
+    "no_identical_home_away": true,
+    "summary_and_results_metadata_agree": true,
+    "score_orientation_verified": true,
+    "half_time_period_consistency_checked": true,
+    "unknown_not_replaced_with_zero": true,
+    "team_stat_ranges_checked": true,
+    "player_data_excluded": true,
+    "source_match_ids_unique": true,
+    "delivered_match_ids_match_source": true,
+    "json_parse_test_passed": true,
+    "required_score_fields_numeric": true
+  },
+  "source_row_name_handling": {
+    "rule": "Participant name selected separately from red-card icon/count. Match-page participant names used; card counts are not part of team names.",
+    "rows_with_separated_card_count": [
+      {
+        "flashscore_match_id": "jcbddWqf",
+        "home_team": "Kortrijk",
+        "away_team": "Waregem"
+      }
+    ]
+  },
+  "statistic_coverage": {
+    "accurate_crosses": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "accurate_final_third_passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "accurate_long_passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "accurate_passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "big_chances": {
+      "matches_with_both_values": 47,
+      "matches_without_both_values": 16
+    },
+    "big_chances_missed": {
+      "matches_with_both_values": 47,
+      "matches_without_both_values": 16
+    },
+    "big_chances_scored": {
+      "matches_with_both_values": 47,
+      "matches_without_both_values": 16
+    },
+    "blocked_shots": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "clearances": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "corners": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "crosses": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "duels_won": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "errors_leading_to_goal": {
+      "matches_with_both_values": 21,
+      "matches_without_both_values": 42
+    },
+    "errors_leading_to_shot": {
+      "matches_with_both_values": 21,
+      "matches_without_both_values": 42
+    },
+    "expected_assists": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "final_third_passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "fouls": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "free_kicks": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "goal_kicks": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "goalkeeper_saves": {
+      "matches_with_both_values": 60,
+      "matches_without_both_values": 3
+    },
+    "goals_conceded": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "goals_prevented": {
+      "matches_with_both_values": 59,
+      "matches_without_both_values": 4
+    },
+    "headed_goals": {
+      "matches_with_both_values": 30,
+      "matches_without_both_values": 33
+    },
+    "hit_the_woodwork": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "interceptions": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "key_passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "long_passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "offsides": {
+      "matches_with_both_values": 44,
+      "matches_without_both_values": 19
+    },
+    "passes": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "possession": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "red_cards": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "shots": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "shots_inside_the_box": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "shots_off_target": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "shots_on_target": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "shots_outside_the_box": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "tackles": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "tackles_won": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "throw_ins": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "touches_in_opposition_box": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "xg": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "xg_on_target": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "xgot_faced": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    },
+    "yellow_cards": {
+      "matches_with_both_values": 63,
+      "matches_without_both_values": 0
+    }
+  }
+}
