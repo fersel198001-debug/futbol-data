@@ -1,0 +1,139 @@
+{
+  "title": "Brazil Série B 2026 — score correction and data-quality audit",
+  "generated_at": "2026-10-09",
+  "source_repository": "fersel198001-debug/futbol-data",
+  "source_chunk_directory": "brazil_serie_b_2026_chunks/",
+  "source_chunks_read": 13,
+  "source_chunk_files": [
+    {
+      "name": "chunk_01.json",
+      "bytes": 2174351
+    },
+    {
+      "name": "chunk_02.json",
+      "bytes": 2169096
+    },
+    {
+      "name": "chunk_03.json",
+      "bytes": 2151873
+    },
+    {
+      "name": "chunk_04.json",
+      "bytes": 2182968
+    },
+    {
+      "name": "chunk_05.json",
+      "bytes": 2160237
+    },
+    {
+      "name": "chunk_06.json",
+      "bytes": 2152751
+    },
+    {
+      "name": "chunk_07.json",
+      "bytes": 2144601
+    },
+    {
+      "name": "chunk_08.json",
+      "bytes": 2140562
+    },
+    {
+      "name": "chunk_09.json",
+      "bytes": 2153227
+    },
+    {
+      "name": "chunk_10.json",
+      "bytes": 2108306
+    },
+    {
+      "name": "chunk_11.json",
+      "bytes": 2152770
+    },
+    {
+      "name": "chunk_12.json",
+      "bytes": 2173488
+    },
+    {
+      "name": "chunk_13.json",
+      "bytes": 177295
+    }
+  ],
+  "total_records_read": 302,
+  "output_records": 302,
+  "status_counts": {
+    "FINISHED": 302
+  },
+  "date_range": {
+    "first": "2026-03-21",
+    "last": "2026-10-02"
+  },
+  "original_problem": {
+    "records_with_fulltime_away_zero": 302,
+    "records_with_fulltime_away_positive": 0
+  },
+  "score_repair": {
+    "method": "For each match, use preserved Flashscore common_feed fields DE=home full-time goals and DF=away full-time goals; cross-check DE/DG and DF/DH duplicate fields.",
+    "records_with_complete_consistent_flashscore_score_fields": 302,
+    "unresolved_score_records": [],
+    "duplicate_score_code_consistency_count": 302,
+    "original_home_score_matches_DE_count": 302,
+    "corrected_home_goal_distribution": {
+      "0": 73,
+      "1": 111,
+      "2": 75,
+      "3": 32,
+      "4": 7,
+      "5": 2,
+      "6": 2
+    },
+    "corrected_away_goal_distribution": {
+      "0": 111,
+      "1": 114,
+      "2": 51,
+      "3": 20,
+      "4": 5,
+      "6": 1
+    },
+    "corrected_result_counts": {
+      "home_win": 136,
+      "draw": 82,
+      "away_win": 84
+    },
+    "individual_match_page_rechecks": "The preserved Flashscore feed fields were processed for all records. Individual Flashscore pages were not independently reopened one by one; no scores were guessed."
+  },
+  "xg_mapping_repair": {
+    "method": "Align top-level xg.home_xG and xg.away_xG with the full-match Expected goals (xG) entry in the first 'Top stats' section.",
+    "records_aligned_to_full_match_xg": 301,
+    "records_without_verifiable_full_match_xg": 1,
+    "original_top_level_xg_mismatches": 298,
+    "missing_values_policy": "Unknown values remain null; no missing value is replaced with 0."
+  },
+  "data_quality": {
+    "duplicate_match_candidates": 0,
+    "team_stats_available_count": 302,
+    "full_match_xg_metric_count": 301,
+    "player_statistics_used": false,
+    "player_specific_fields_removed": [
+      "player_stats",
+      "lineups",
+      "incidents"
+    ],
+    "raw_team_stats_feed_removed": "team_stats.raw_feed omitted; normalized team-level metrics retained.",
+    "period_metric_scope": "Only full-match team_stats.metrics retained; first-half and second-half metric duplicates omitted.",
+    "no_new_database_tables_or_columns": true
+  },
+  "validation": {
+    "json_serialized_from_parsed_records": true,
+    "record_count_matches_source": true,
+    "duplicate_match_candidates": 0,
+    "all_fulltime_scores_from_consistent_source_codes": true,
+    "no_player_specific_payloads": true,
+    "unresolved_score_records": 0
+  },
+  "caveats": [
+    "This is a corrected JSON file, not a Supabase import; the database has not been changed.",
+    "Scores are corrected from Flashscore common_feed fields preserved in each source record, not estimates.",
+    "Individual Flashscore match pages were not independently reopened one by one.",
+    "Half-time scores are preserved as recorded; full-time scores and top-level full-match xG mapping were corrected."
+  ]
+}
