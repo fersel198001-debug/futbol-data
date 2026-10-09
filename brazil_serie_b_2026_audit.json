@@ -1,0 +1,47 @@
+{
+  "title": "Brazil Serie B 2026 — score correction audit",
+  "created_date": "2026-10-09",
+  "source_repository": "fersel198001-debug/futbol-data",
+  "source_directory": "brazil_serie_b_2026_chunks/",
+  "source_records_read": 302,
+  "completed_matches": 302,
+  "source_label": "Flashscore",
+  "player_statistics_used": false,
+  "player_statistics_in_output": false,
+  "score_reconstruction": {
+    "method": "Sum the existing Flashscore incident period-score markers: 1st Half (IG=home, IH=away) + 2nd Half (IG=home, IH=away). The incident records were used only to derive period scores; player names and event details were excluded.",
+    "home_score_consistency_check": "302/302 reconstructed home scores equal the existing fulltime_home field.",
+    "matches_missing_half_markers": 0,
+    "original_fulltime_away_zero_count": 302,
+    "reconstructed_away_goal_distribution": {
+      "0": 111,
+      "1": 114,
+      "2": 51,
+      "3": 20,
+      "4": 5,
+      "6": 1
+    },
+    "reconstructed_result_distribution": {
+      "home_win": 136,
+      "draw": 82,
+      "away_win": 84
+    },
+    "note": "Scores were reconstructed from existing stored Flashscore period-score records. Individual Flashscore match pages were not independently re-opened one by one in this run; this is source-record reconstruction pending independent page-level spot checks."
+  },
+  "data_quality": {
+    "duplicate_match_ids_or_keys": 0,
+    "missing_source_urls": 0,
+    "xg_home_present": 301,
+    "xg_away_present": 301,
+    "xg_both_sides_present": 301,
+    "unique_teams": 20
+  },
+  "output_rules": {
+    "player_stats_removed": true,
+    "lineups_removed": true,
+    "incident_records_removed_after_score_reconstruction": true,
+    "team_level_stats_retained": true,
+    "no_new_supabase_tables_or_columns": true,
+    "unknown_scores_filled_with_zero": false
+  }
+}
