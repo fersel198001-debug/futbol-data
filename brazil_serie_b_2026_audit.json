@@ -1,0 +1,72 @@
+{
+  "title": "Brazil Serie B 2026 score correction audit",
+  "source_repository": "fersel198001-debug/futbol-data",
+  "source_chunks": [
+    "chunk_01.json",
+    "chunk_02.json",
+    "chunk_03.json",
+    "chunk_04.json",
+    "chunk_05.json",
+    "chunk_06.json",
+    "chunk_07.json",
+    "chunk_08.json",
+    "chunk_09.json",
+    "chunk_10.json",
+    "chunk_11.json",
+    "chunk_12.json",
+    "chunk_13.json"
+  ],
+  "records_read": 302,
+  "corrected_records": 302,
+  "finished_matches": 302,
+  "date_range": {
+    "first": "2026-03-21",
+    "last": "2026-10-02"
+  },
+  "score_reconstruction": {
+    "method": "Use Flashscore-sourced incident records: final score = halftime score + second-half score markers (IG/IH). The reconstructed home score was compared with the stored home score for each match.",
+    "reconstructed_home_score_matches_stored_home_score": 302,
+    "missing_or_inconsistent_records": 0,
+    "independently_live_rechecked_each_match": false,
+    "explanation": "All 302 records contained halftime and second-half markers; reconstructed home scores matched the stored home score in all records. This is a source-internal consistency reconstruction, not a separate live-page audit of every match."
+  },
+  "home_goals_distribution": {
+    "0": 73,
+    "1": 111,
+    "2": 75,
+    "3": 32,
+    "4": 7,
+    "5": 2,
+    "6": 2
+  },
+  "away_goals_distribution": {
+    "0": 111,
+    "1": 114,
+    "2": 51,
+    "3": 20,
+    "4": 5,
+    "6": 1
+  },
+  "outcomes_from_reconstructed_scores": {
+    "home_wins": 136,
+    "draws": 82,
+    "away_wins": 84
+  },
+  "total_goals": 709,
+  "duplicate_match_candidates": 0,
+  "xg_completeness": {
+    "home_present": 301,
+    "away_present": 301,
+    "both_present": 301,
+    "home_missing": 1,
+    "away_missing": 1
+  },
+  "team_stats_available": 302,
+  "source_flashscore_records": 302,
+  "player_statistics": {
+    "included": false,
+    "used": false,
+    "player_stats_lineups_and_incident_details_excluded_from_corrected_json": true
+  },
+  "validation_errors": []
+}
